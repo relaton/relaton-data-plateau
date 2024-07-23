@@ -1,0 +1,50 @@
+---
+schema-version: v1.2.9
+id: PLATEAUTechReport#18
+title:
+- content: 徒歩及び車による時系列水害避難行動シミュレーション 技術検証レポート
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+  type: main
+link:
+- content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0018_ver01.pdf
+  type: pdf
+type: standard
+docid:
+- id: 'PLATEAU Tech Report #18'
+  type: PLATEAU
+  primary: true
+date:
+- type: published
+  value: '2023-03-27'
+edition:
+  content: '1.0'
+  number: '1.0'
+revdate: '2023-03-27'
+abstract:
+- content: 徒歩及び車による時系列水害避難行動シミュレーションの技術資料（2022年度）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+keyword:
+- content: CesiumJS
+- content: シミュレーション
+doctype:
+  type: technical-report
+subdoctype: Use Case
+structuredidentifier:
+- docnumber: '18'
+  type: Tech Report
+  agency:
+  - PLATEAU
+  class: Use Case
+cover:
+  image:
+    src: https://www.mlit.go.jp//plateau/uploads/2023/03/plateau_tech_doc_0018_ver01.jpg
+    mimetype: image/jpeg
+filesize: 7462903

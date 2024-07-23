@@ -1,0 +1,46 @@
+---
+schema-version: v1.2.9
+id: PLATEAUHandbook#03-1第2.0版
+title:
+- content: "（別冊）3D都市モデルとの連携のためのBIMモデルIDM・MVD"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+  type: main
+- content: 情報伝達マニュアル（IDM）・モデルビュー定義（MVD）
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_00031_ver02.pdf
+  type: pdf
+type: standard
+docid:
+- id: 'PLATEAU Handbook #03-1 第2.0版'
+  type: PLATEAU
+  primary: true
+date:
+- type: published
+  value: '2023-03-27'
+edition:
+  content: 第2.0版
+  number: '2.0'
+revdate: '2023-03-27'
+doctype:
+  type: annex
+structuredidentifier:
+- docnumber: 03-1
+  type: Handbook
+  agency:
+  - PLATEAU
+  edition: 第2.0版
+cover:
+  image:
+    src: https://www.mlit.go.jp//plateau/uploads/2021/03/plateu_layout_2022_ol-12-scaled.jpg
+    mimetype: image/jpeg
+filesize: 8757397

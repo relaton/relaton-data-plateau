@@ -1,0 +1,53 @@
+---
+schema-version: v1.2.9
+id: PLATEAUHandbook#03第3.0版
+title:
+- content: 3D都市モデル整備のためのBIM活用マニュアル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+  type: main
+- content: Manual for the Integration of BIM Models in 3D City Models with CityGML
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0003_ver03.pdf
+  type: pdf
+type: standard
+docid:
+- id: 'PLATEAU Handbook #03 第3.0版'
+  type: PLATEAU
+  primary: true
+date:
+- type: published
+  value: '2023-03-27'
+edition:
+  content: 第3.0版
+  number: '3.0'
+revdate: '2023-03-27'
+abstract:
+- content: BIM（建築情報モデル）を活用して屋内モデルを3D都市モデルに統合するためのマニュアル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+doctype:
+  type: handbook
+structuredidentifier:
+- docnumber: '03'
+  type: Handbook
+  agency:
+  - PLATEAU
+  edition: 第3.0版
+cover:
+  image:
+    src: https://www.mlit.go.jp//plateau/uploads/2022/03/4@2x.jpg
+    mimetype: image/jpeg
+filesize: 51479909

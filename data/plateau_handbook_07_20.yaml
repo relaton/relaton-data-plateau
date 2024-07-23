@@ -1,0 +1,53 @@
+---
+schema-version: v1.2.9
+id: PLATEAUHandbook#07第2.0版
+title:
+- content: 3D都市モデルのデータ変換マニュアル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+  type: main
+- content: 3D City Model Data Conversion Manual
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0007_ver02.pdf
+  type: pdf
+type: standard
+docid:
+- id: 'PLATEAU Handbook #07 第2.0版'
+  type: PLATEAU
+  primary: true
+date:
+- type: published
+  value: '2024-04-04'
+edition:
+  content: 第2.0版
+  number: '2.0'
+revdate: '2024-04-04'
+abstract:
+- content: CityGMLを3DCG形式（OBJ/FBX/datasmith)及びBIM形式（IFC）へ変換するためのマニュアル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+doctype:
+  type: handbook
+structuredidentifier:
+- docnumber: '07'
+  type: Handbook
+  agency:
+  - PLATEAU
+  edition: 第2.0版
+cover:
+  image:
+    src: https://www.mlit.go.jp//plateau/uploads/2021/03/8@2x.jpg
+    mimetype: image/jpeg
+filesize: 8402655

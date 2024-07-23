@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.9
+id: PLATEAUTechReport#77
+title:
+- content: 都市構造シミュレーションv2.0 技術検証レポート
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+  type: main
+link:
+- content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0077_ver01.pdf
+  type: pdf
+type: standard
+docid:
+- id: 'PLATEAU Tech Report #77'
+  type: PLATEAU
+  primary: true
+date:
+- type: published
+  value: '2024-03-29'
+edition:
+  content: '1.0'
+  number: '1.0'
+revdate: '2024-03-29'
+abstract:
+- content: 都市構造シミュレーションv2.0の技術資料 (2023年度)
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+keyword:
+- content: ArcGIS
+- content: シミュレーション
+- content: QGIS
+doctype:
+  type: technical-report
+subdoctype: Use Case
+structuredidentifier:
+- docnumber: '77'
+  type: Tech Report
+  agency:
+  - PLATEAU
+  class: Use Case
+cover:
+  image:
+    src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0077_ver01.jpg
+    mimetype: image/jpeg
+filesize: 15011857

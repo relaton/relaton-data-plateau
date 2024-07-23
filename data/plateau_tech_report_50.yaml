@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.9
+id: PLATEAUTechReport#50
+title:
+- content: 3D都市モデルの更新優先度マップ 技術検証レポート
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+  type: main
+link:
+- content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0050_ver01.pdf
+  type: pdf
+type: standard
+docid:
+- id: 'PLATEAU Tech Report #50'
+  type: PLATEAU
+  primary: true
+date:
+- type: published
+  value: '2023-03-28'
+edition:
+  content: '1.0'
+  number: '1.0'
+revdate: '2023-03-28'
+abstract:
+- content: 3D都市モデルの更新優先度マップ開発の技術資料（2022年度）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+keyword:
+- content: PyTorch
+- content: OpenCV
+- content: 可視化
+- content: AI
+doctype:
+  type: technical-report
+subdoctype: Use Case
+structuredidentifier:
+- docnumber: '50'
+  type: Tech Report
+  agency:
+  - PLATEAU
+  class: Use Case
+cover:
+  image:
+    src: https://www.mlit.go.jp//plateau/uploads/2023/03/tech_doc_0050_ver01.jpg
+    mimetype: image/jpeg
+filesize: 15138135
