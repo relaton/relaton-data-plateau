@@ -39,8 +39,9 @@ structuredidentifier:
   agency:
   - PLATEAU
   edition: 第2.0版（民間活用編）
-cover:
-  image:
-    src: https://www.mlit.go.jp//plateau/uploads/2024/04/plateau_doc_0011_ver04.jpg
-    mimetype: image/jpeg
-filesize: 25995289
+ext:
+  cover:
+    image:
+      src: https://www.mlit.go.jp//plateau/uploads/2024/04/plateau_doc_0011_ver04.jpg
+      mimetype: image/jpeg
+  filesize: 25995289

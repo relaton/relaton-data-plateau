@@ -39,8 +39,9 @@ structuredidentifier:
   agency:
   - PLATEAU
   edition: 第1.0版
-cover:
-  image:
-    src: https://www.mlit.go.jp//plateau/uploads/2021/03/plateu_layout_2022_ol-12-scaled.jpg
-    mimetype: image/jpeg
-filesize: 7988260
+ext:
+  cover:
+    image:
+      src: https://www.mlit.go.jp//plateau/uploads/2021/03/plateu_layout_2022_ol-12-scaled.jpg
+      mimetype: image/jpeg
+  filesize: 7988260

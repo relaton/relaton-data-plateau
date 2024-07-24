@@ -43,8 +43,9 @@ structuredidentifier:
   agency:
   - PLATEAU
   class: Use Case
-cover:
-  image:
-    src: https://www.mlit.go.jp//plateau/uploads/2023/03/tech_doc_0043_ver01.jpg
-    mimetype: image/jpeg
-filesize: 5943148
+ext:
+  cover:
+    image:
+      src: https://www.mlit.go.jp//plateau/uploads/2023/03/tech_doc_0043_ver01.jpg
+      mimetype: image/jpeg
+  filesize: 5943148

@@ -40,8 +40,9 @@ structuredidentifier:
   agency:
   - PLATEAU
   class: Data
-cover:
-  image:
-    src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0067_ver01-scaled.jpg
-    mimetype: image/jpeg
-filesize: 4087502
+ext:
+  cover:
+    image:
+      src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0067_ver01-scaled.jpg
+      mimetype: image/jpeg
+  filesize: 4087502

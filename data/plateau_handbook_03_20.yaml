@@ -46,8 +46,9 @@ structuredidentifier:
   agency:
   - PLATEAU
   edition: 第2.0版
-cover:
-  image:
-    src: https://www.mlit.go.jp//plateau/uploads/2022/03/4@2x.jpg
-    mimetype: image/jpeg
-filesize: 19629016
+ext:
+  cover:
+    image:
+      src: https://www.mlit.go.jp//plateau/uploads/2022/03/4@2x.jpg
+      mimetype: image/jpeg
+  filesize: 19629016
