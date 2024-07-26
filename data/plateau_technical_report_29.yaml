@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.9
+id: PLATEAUTechnicalReport#29
+title:
+- content: ヒートアイランド・シミュレーション 技術検証レポート
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+  type: main
+link:
+- content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0029_ver01.pdf
+  type: pdf
+type: standard
+docid:
+- id: 'PLATEAU Technical Report #29'
+  type: PLATEAU
+  primary: true
+date:
+- type: published
+  value: '2023-03-27'
+edition:
+  content: '1.0'
+  number: '1.0'
+revdate: '2023-03-27'
+abstract:
+- content: ヒートアイランド・シミュレーションの技術資料（2022年度）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+keyword:
+- content: シミュレーション
+- content: CFD
+doctype:
+  type: technical-report
+subdoctype: Use Case
+structuredidentifier:
+- docnumber: '29'
+  type: Tech Report
+  agency:
+  - PLATEAU
+  class: Use Case
+ext:
+  cover:
+    image:
+      src: https://www.mlit.go.jp//plateau/uploads/2023/02/plateau_tech_doc_0029_ver01.jpg
+      mimetype: image/jpeg
+  filesize: 7280081

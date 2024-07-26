@@ -1,0 +1,53 @@
+---
+schema-version: v1.2.9
+id: PLATEAUTechnicalReport#83
+title:
+- content: 下水熱利用促進のためのマッチングシステム 技術検証レポート
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+  type: main
+link:
+- content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0083_ver01.pdf
+  type: pdf
+type: standard
+docid:
+- id: 'PLATEAU Technical Report #83'
+  type: PLATEAU
+  primary: true
+date:
+- type: published
+  value: '2024-03-29'
+edition:
+  content: '1.0'
+  number: '1.0'
+revdate: '2024-03-29'
+abstract:
+- content: 下水熱利用促進のためのマッチングシステムの技術資料 (2023年度)
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+keyword:
+- content: ArcGIS
+- content: 可視化
+- content: シミュレーション
+- content: GIS
+doctype:
+  type: technical-report
+subdoctype: Use Case
+structuredidentifier:
+- docnumber: '83'
+  type: Tech Report
+  agency:
+  - PLATEAU
+  class: Use Case
+ext:
+  cover:
+    image:
+      src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0083_ver01.jpg
+      mimetype: image/jpeg
+  filesize: 9489331

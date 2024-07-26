@@ -1,0 +1,48 @@
+---
+schema-version: v1.2.9
+id: PLATEAUTechnicalReport#67
+title:
+- content: 多方向カメラを用いた空中写真測量による3D都市モデル整備手法に関する調査 技術検証レポート
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+  type: main
+link:
+- content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0067_ver01.pdf
+  type: pdf
+type: standard
+docid:
+- id: 'PLATEAU Technical Report #67'
+  type: PLATEAU
+  primary: true
+date:
+- type: published
+  value: '2024-03-29'
+edition:
+  content: '1.0'
+  number: '1.0'
+revdate: '2024-03-29'
+abstract:
+- content: 多方向カメラを用いた空中写真測量による3D都市モデル整備手法に関する技術資料 (2023年度)
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+doctype:
+  type: technical-report
+subdoctype: Data
+structuredidentifier:
+- docnumber: '67'
+  type: Tech Report
+  agency:
+  - PLATEAU
+  class: Data
+ext:
+  cover:
+    image:
+      src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0067_ver01-scaled.jpg
+      mimetype: image/jpeg
+  filesize: 4087502

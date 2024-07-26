@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.9
+id: PLATEAUTechnicalReport#43
+title:
+- content: 地域エネルギーマネジメント支援システム 技術検証レポート
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+  type: main
+link:
+- content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0043_ver01.pdf
+  type: pdf
+type: standard
+docid:
+- id: 'PLATEAU Technical Report #43'
+  type: PLATEAU
+  primary: true
+date:
+- type: published
+  value: '2023-03-28'
+edition:
+  content: '1.0'
+  number: '1.0'
+revdate: '2023-03-28'
+abstract:
+- content: 地域エネルギーマネジメント支援システム開発の技術資料（2022年度）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+keyword:
+- content: 人流データ
+- content: シミュレーション
+doctype:
+  type: technical-report
+subdoctype: Use Case
+structuredidentifier:
+- docnumber: '43'
+  type: Tech Report
+  agency:
+  - PLATEAU
+  class: Use Case
+ext:
+  cover:
+    image:
+      src: https://www.mlit.go.jp//plateau/uploads/2023/03/tech_doc_0043_ver01.jpg
+      mimetype: image/jpeg
+  filesize: 5943148
