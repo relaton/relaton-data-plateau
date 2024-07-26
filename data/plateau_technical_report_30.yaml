@@ -38,7 +38,7 @@ doctype:
 subdoctype: Use Case
 structuredidentifier:
 - docnumber: '30'
-  type: Tech Report
+  type: Technical Report
   agency:
   - PLATEAU
   class: Use Case

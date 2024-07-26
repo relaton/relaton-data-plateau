@@ -38,7 +38,7 @@ doctype:
 subdoctype: Data
 structuredidentifier:
 - docnumber: '70'
-  type: Tech Report
+  type: Technical Report
   agency:
   - PLATEAU
   class: Data

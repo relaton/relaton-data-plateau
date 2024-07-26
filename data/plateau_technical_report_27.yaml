@@ -40,7 +40,7 @@ doctype:
 subdoctype: Use Case
 structuredidentifier:
 - docnumber: '27'
-  type: Tech Report
+  type: Technical Report
   agency:
   - PLATEAU
   class: Use Case

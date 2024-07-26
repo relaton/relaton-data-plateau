@@ -45,7 +45,7 @@ doctype:
 subdoctype: Use Case
 structuredidentifier:
 - docnumber: '39'
-  type: Tech Report
+  type: Technical Report
   agency:
   - PLATEAU
   class: Use Case

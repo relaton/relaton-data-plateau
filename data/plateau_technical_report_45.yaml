@@ -43,7 +43,7 @@ doctype:
 subdoctype: Use Case
 structuredidentifier:
 - docnumber: '45'
-  type: Tech Report
+  type: Technical Report
   agency:
   - PLATEAU
   class: Use Case

@@ -42,7 +42,7 @@ doctype:
 subdoctype: Use Case
 structuredidentifier:
 - docnumber: '73'
-  type: Tech Report
+  type: Technical Report
   agency:
   - PLATEAU
   class: Use Case
