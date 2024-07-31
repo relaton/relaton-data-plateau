@@ -27,6 +27,23 @@ docid:
 date:
 - type: published
   value: '2021-03-26'
+contributor:
+- organization:
+    name:
+    - content: 国土交通省都市局
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+      language:
+      - en
+      script:
+      - Latn
+    abbreviation:
+      content: MLIT
+  role:
+  - type: publisher
 edition:
   content: 第1.0版（公共活用編）
   number: '1.0'
