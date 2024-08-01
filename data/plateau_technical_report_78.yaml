@@ -49,8 +49,8 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
-- content: React
 - content: Blender
+- content: React
 - content: ゲーミフィケーション
 - content: QGIS
 - content: Unity
