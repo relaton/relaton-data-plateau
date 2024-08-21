@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.9
-id: PLATEAUHandbook#11第1.0版（民間活用編）
+id: PLATEAUHandbook#113.0
 title:
 - content: 3D都市モデルのユースケース開発マニュアル
   language:
@@ -17,16 +17,16 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0006_ver01.pdf
+- content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0004_ver03.pdf
   type: pdf
 type: standard
 docid:
-- id: 'PLATEAU Handbook #11 第1.0版（民間活用編）'
+- id: 'PLATEAU Handbook #11 3.0'
   type: PLATEAU
   primary: true
 date:
 - type: published
-  value: '2021-03-26'
+  value: '2023-04-04'
 contributor:
 - organization:
     name:
@@ -45,9 +45,9 @@ contributor:
   role:
   - type: publisher
 edition:
-  content: 第1.0版（民間活用編）
-  number: '1.0'
-revdate: '2021-03-26'
+  content: '3.0'
+  number: '3.0'
+revdate: '2023-04-04'
 doctype:
   type: handbook
 structuredidentifier:
@@ -55,10 +55,10 @@ structuredidentifier:
   type: Handbook
   agency:
   - PLATEAU
-  edition: 第1.0版（民間活用編）
+  edition: '3.0'
 ext:
   cover:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/04/plateau_doc_0011_ver04.jpg
       mimetype: image/jpeg
-  filesize: 10812148
+  filesize: 40980838

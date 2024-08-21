@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.9
-id: PLATEAUHandbook#01第2.3版
+id: PLATEAUHandbook#012.3
 title:
 - content: 3D都市モデル標準製品仕様書
   language:
@@ -21,7 +21,7 @@ link:
   type: pdf
 type: standard
 docid:
-- id: 'PLATEAU Handbook #01 第2.3版'
+- id: 'PLATEAU Handbook #01 2.3'
   type: PLATEAU
   primary: true
 date:
@@ -45,7 +45,7 @@ contributor:
   role:
   - type: publisher
 edition:
-  content: 第2.3版
+  content: '2.3'
   number: '2.3'
 revdate: '2022-09-30'
 abstract:
@@ -62,7 +62,7 @@ structuredidentifier:
   type: Handbook
   agency:
   - PLATEAU
-  edition: 第2.3版
+  edition: '2.3'
 ext:
   cover:
     image:

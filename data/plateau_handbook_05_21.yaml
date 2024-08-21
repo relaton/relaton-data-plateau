@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.9
-id: PLATEAUHandbook#05第2.1版
+id: PLATEAUHandbook#052.1
 title:
 - content: 3D都市モデルを活用した災害リスク情報の可視化マニュアル
   language:
@@ -21,7 +21,7 @@ link:
   type: pdf
 type: standard
 docid:
-- id: 'PLATEAU Handbook #05 第2.1版'
+- id: 'PLATEAU Handbook #05 2.1'
   type: PLATEAU
   primary: true
 date:
@@ -45,7 +45,7 @@ contributor:
   role:
   - type: publisher
 edition:
-  content: 第2.1版
+  content: '2.1'
   number: '2.1'
 revdate: '2024-03-29'
 abstract:
@@ -62,7 +62,7 @@ structuredidentifier:
   type: Handbook
   agency:
   - PLATEAU
-  edition: 第2.1版
+  edition: '2.1'
 ext:
   cover:
     image:

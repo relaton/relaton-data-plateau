@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.9
-id: PLATEAUHandbook#08第2.0版
+id: PLATEAUHandbook#082.0
 title:
 - content: ビジュアルアイデンティティ（VI）マニュアル
   language:
@@ -21,7 +21,7 @@ link:
   type: pdf
 type: standard
 docid:
-- id: 'PLATEAU Handbook #08 第2.0版'
+- id: 'PLATEAU Handbook #08 2.0'
   type: PLATEAU
   primary: true
 date:
@@ -45,7 +45,7 @@ contributor:
   role:
   - type: publisher
 edition:
-  content: 第2.0版
+  content: '2.0'
   number: '2.0'
 revdate: '2024-03-22'
 abstract:
@@ -62,7 +62,7 @@ structuredidentifier:
   type: Handbook
   agency:
   - PLATEAU
-  edition: 第2.0版
+  edition: '2.0'
 ext:
   cover:
     image:

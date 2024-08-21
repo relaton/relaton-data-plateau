@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.9
-id: PLATEAUHandbook#00第4.0版
+id: PLATEAUHandbook#004.0
 title:
 - content: 3D都市モデルの導入ガイダンス
   language:
@@ -21,7 +21,7 @@ link:
   type: pdf
 type: standard
 docid:
-- id: 'PLATEAU Handbook #00 第4.0版'
+- id: 'PLATEAU Handbook #00 4.0'
   type: PLATEAU
   primary: true
 date:
@@ -45,7 +45,7 @@ contributor:
   role:
   - type: publisher
 edition:
-  content: 第4.0版
+  content: '4.0'
   number: '4.0'
 revdate: '2024-04-08'
 abstract:
@@ -62,7 +62,7 @@ structuredidentifier:
   type: Handbook
   agency:
   - PLATEAU
-  edition: 第4.0版
+  edition: '4.0'
 ext:
   cover:
     image:

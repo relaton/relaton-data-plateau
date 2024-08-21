@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.9
-id: PLATEAUHandbook#07第1.0版
+id: PLATEAUHandbook#071.0
 title:
 - content: 3D都市モデルのデータ変換マニュアル
   language:
@@ -21,7 +21,7 @@ link:
   type: pdf
 type: standard
 docid:
-- id: 'PLATEAU Handbook #07 第1.0版'
+- id: 'PLATEAU Handbook #07 1.0'
   type: PLATEAU
   primary: true
 date:
@@ -45,7 +45,7 @@ contributor:
   role:
   - type: publisher
 edition:
-  content: 第1.0版
+  content: '1.0'
   number: '1.0'
 revdate: '2021-03-26'
 abstract:
@@ -62,7 +62,7 @@ structuredidentifier:
   type: Handbook
   agency:
   - PLATEAU
-  edition: 第1.0版
+  edition: '1.0'
 ext:
   cover:
     image:

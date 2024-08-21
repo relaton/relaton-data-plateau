@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.9
-id: PLATEAUHandbook#03-1第2.0版
+id: PLATEAUHandbook#03-12.0
 title:
 - content: "（別冊）3D都市モデルとの連携のためのBIMモデルIDM・MVD"
   language:
@@ -21,7 +21,7 @@ link:
   type: pdf
 type: standard
 docid:
-- id: 'PLATEAU Handbook #03-1 第2.0版'
+- id: 'PLATEAU Handbook #03-1 2.0'
   type: PLATEAU
   primary: true
 date:
@@ -45,7 +45,7 @@ contributor:
   role:
   - type: publisher
 edition:
-  content: 第2.0版
+  content: '2.0'
   number: '2.0'
 revdate: '2023-03-27'
 doctype:
@@ -55,7 +55,7 @@ structuredidentifier:
   type: Handbook
   agency:
   - PLATEAU
-  edition: 第2.0版
+  edition: '2.0'
 ext:
   cover:
     image:
