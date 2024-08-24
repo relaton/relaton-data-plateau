@@ -17,6 +17,7 @@ docid:
 - id: 'PLATEAU Technical Report #24'
   type: PLATEAU
   primary: true
+docnumber: 'Technical Report #24'
 date:
 - type: published
   value: '2023-03-27'

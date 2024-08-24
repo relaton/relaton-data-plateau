@@ -17,6 +17,7 @@ docid:
 - id: 'PLATEAU Technical Report #01'
   type: PLATEAU
   primary: true
+docnumber: 'Technical Report #01'
 date:
 - type: published
   value: '2022-03-29'

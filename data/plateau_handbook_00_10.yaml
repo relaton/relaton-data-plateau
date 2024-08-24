@@ -24,6 +24,7 @@ docid:
 - id: 'PLATEAU Handbook #00 1.0'
   type: PLATEAU
   primary: true
+docnumber: 'Handbook #00 1.0'
 date:
 - type: published
   value: '2021-03-26'
