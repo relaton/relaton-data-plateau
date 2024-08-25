@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: PLATEAUTechnicalReport#861.0
+title:
+- content: 3D都市モデルとBIMを活用したモビリティ自律運航システム（ドローン）v2.0 技術検証レポート
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+  type: main
+link:
+- content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0086_ver01.pdf
+  type: pdf
+type: standard
+docid:
+- id: 'PLATEAU Technical Report #86 1.0'
+  type: PLATEAU
+  primary: true
+docnumber: 'Technical Report #86 1.0'
+date:
+- type: published
+  value: '2024-03-29'
+contributor:
+- organization:
+    name:
+    - content: 国土交通省
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+      language:
+      - en
+      script:
+      - Latn
+    abbreviation:
+      content: MLIT
+  role:
+  - type: publisher
+edition:
+  content: '1.0'
+  number: '1.0'
+revdate: '2024-03-29'
+abstract:
+- content: 3D都市モデルとBIMを活用したモビリティ自律運航システム（ドローン）v2.0の技術資料 (2023年度)
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+keyword:
+- content: OpenCV
+- content: SLAM
+- content: ROS
+- content: ドローン
+doctype:
+  type: technical-report
+subdoctype: Use Case
+structuredidentifier:
+- docnumber: '86'
+  type: Technical Report
+  agency:
+  - PLATEAU
+  class: Use Case
+ext:
+  cover:
+    image:
+      src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0086_ver01.jpg
+      mimetype: image/jpeg
+  filesize: 11471943

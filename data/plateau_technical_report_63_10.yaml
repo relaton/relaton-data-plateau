@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.9
+id: PLATEAUTechnicalReport#631.0
+title:
+- content: CityGML に最適化されたデータベース構築手法に関する調査技術レポート
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+  type: main
+link:
+- content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0063_ver01.pdf
+  type: pdf
+type: standard
+docid:
+- id: 'PLATEAU Technical Report #63 1.0'
+  type: PLATEAU
+  primary: true
+docnumber: 'Technical Report #63 1.0'
+date:
+- type: published
+  value: '2024-03-29'
+contributor:
+- organization:
+    name:
+    - content: 国土交通省
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+      language:
+      - en
+      script:
+      - Latn
+    abbreviation:
+      content: MLIT
+  role:
+  - type: publisher
+edition:
+  content: '1.0'
+  number: '1.0'
+revdate: '2024-03-29'
+abstract:
+- content: CityGML に最適化されたデータベース構築手法に関する技術資料 (2023年度)
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+doctype:
+  type: technical-report
+subdoctype: Data
+structuredidentifier:
+- docnumber: '63'
+  type: Technical Report
+  agency:
+  - PLATEAU
+  class: Data
+ext:
+  cover:
+    image:
+      src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0063_ver01.jpg
+      mimetype: image/jpeg
+  filesize: 8996276
