@@ -7,16 +7,16 @@
   :file: data/plateau_handbook_00_20.yaml
 - :id: 'PLATEAU Handbook #00 1.0'
   :file: data/plateau_handbook_00_10.yaml
-- :id: 'PLATEAU Handbook #01 4.0'
-  :file: data/plateau_handbook_01_40.yaml
+- :id: 'PLATEAU Handbook #01 4.1'
+  :file: data/plateau_handbook_01_41.yaml
 - :id: 'PLATEAU Handbook #01 3.5'
   :file: data/plateau_handbook_01_35.yaml
 - :id: 'PLATEAU Handbook #01 2.3'
   :file: data/plateau_handbook_01_23.yaml
 - :id: 'PLATEAU Handbook #01 1.0'
   :file: data/plateau_handbook_01_10.yaml
-- :id: 'PLATEAU Handbook #02 4.0'
-  :file: data/plateau_handbook_02_40.yaml
+- :id: 'PLATEAU Handbook #02 4.1'
+  :file: data/plateau_handbook_02_41.yaml
 - :id: 'PLATEAU Handbook #02 3.5'
   :file: data/plateau_handbook_02_35.yaml
 - :id: 'PLATEAU Handbook #02 2.2'

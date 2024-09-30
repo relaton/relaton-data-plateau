@@ -1,15 +1,15 @@
 ---
 schema-version: v1.2.9
-id: PLATEAUHandbook#024.0
+id: PLATEAUHandbook#014.1
 title:
-- content: 3D都市モデル標準作業手順書
+- content: 3D都市モデル標準製品仕様書
   language:
   - ja
   script:
   - Jpan
   format: text/plain
   type: main
-- content: Standard Implementation Procedures for 3D City Model
+- content: Standard Data Product Specification for 3D City Model
   language:
   - en
   script:
@@ -17,19 +17,19 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0002_ver04.pdf
+- content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0001_ver04.pdf
   type: pdf
-- content: https://www.mlit.go.jp/plateaudocument02/
+- content: https://www.mlit.go.jp/plateaudocument/
   type: html
 type: standard
 docid:
-- id: 'PLATEAU Handbook #02 4.0'
+- id: 'PLATEAU Handbook #01 4.1'
   type: PLATEAU
   primary: true
-docnumber: 'Handbook #02 4.0'
+docnumber: 'Handbook #01 4.1'
 date:
 - type: published
-  value: '2024-03-29'
+  value: '2024-09-30'
 contributor:
 - organization:
     name:
@@ -48,11 +48,11 @@ contributor:
   role:
   - type: publisher
 edition:
-  content: '4.0'
-  number: '4.0'
-revdate: '2024-03-29'
+  content: '4.1'
+  number: '4.1'
+revdate: '2024-09-30'
 abstract:
-- content: 国際標準規格であるCityGMLによる3D都市モデル整備のための標準作業手順
+- content: 国際標準規格であるCityGMLによる3D都市モデル整備のための標準製品仕様
   language:
   - ja
   script:
@@ -61,14 +61,14 @@ abstract:
 doctype:
   type: handbook
 structuredidentifier:
-- docnumber: '02'
+- docnumber: '01'
   type: Handbook
   agency:
   - PLATEAU
-  edition: '4.0'
+  edition: '4.1'
 ext:
   cover:
     image:
-      src: https://www.mlit.go.jp//plateau/uploads/2022/09/3@2x.jpg
+      src: https://www.mlit.go.jp//plateau/uploads/2022/09/2@2x.jpg
       mimetype: image/jpeg
-  filesize: 0
+  filesize: 36609047
