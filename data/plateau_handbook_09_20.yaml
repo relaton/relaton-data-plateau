@@ -65,6 +65,7 @@ structuredidentifier:
   - PLATEAU
   edition: '2.0'
 ext:
+  schema-version: v0.0.1
   cover:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/04/plateau_doc_0009_ver04.jpg

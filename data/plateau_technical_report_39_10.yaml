@@ -68,6 +68,7 @@ structuredidentifier:
   - PLATEAU
   class: Use Case
 ext:
+  schema-version: v0.0.1
   cover:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/03/plateau_tech_doc_0039_ver01.jpg
