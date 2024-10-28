@@ -50,11 +50,12 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2022年度
 - content: 人流データ
 - content: CesiumJS
 - content: シミュレーション
 - content: Unity
-- content: AR/VR
+- content: AR
 - content: ARCore
 doctype:
   type: technical-report
@@ -71,4 +72,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/03/tech_doc_0045_ver01.jpg
       mimetype: image/jpeg
-  filesize: 9637288
+  filesize: 234

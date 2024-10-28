@@ -50,9 +50,10 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2023年度
+- content: 点群データ
 - content: ArcGIS
 - content: CesiumJS
-- content: デジタルツイン
 - content: AI
 doctype:
   type: technical-report
@@ -69,4 +70,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0092_ver01.jpg
       mimetype: image/jpeg
-  filesize: 12288279
+  filesize: 234

@@ -50,14 +50,15 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2023年度
+- content: VR・メタバース
+- content: BIMモデル
 - content: IoT
 - content: ArcGIS
 - content: CesiumJS
 - content: PostGIS
 - content: QGIS
-- content: デジタルツイン
-- content: AR/VR
-- content: GIS
+- content: AR
 doctype:
   type: technical-report
 subdoctype: Use Case
@@ -73,4 +74,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0075_ver01.jpg
       mimetype: image/jpeg
-  filesize: 14338976
+  filesize: 234

@@ -50,10 +50,12 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2023年度
+- content: PLATEAU SDK
 - content: CesiumJS
 - content: VPS
 - content: Unity
-- content: AR/VR
+- content: AR
 doctype:
   type: technical-report
 subdoctype: Use Case
@@ -69,4 +71,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0085_ver01.jpg
       mimetype: image/jpeg
-  filesize: 19374901
+  filesize: 234

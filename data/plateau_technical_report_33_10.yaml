@@ -50,8 +50,8 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2022年度
 - content: CesiumJS
-- content: GIS
 doctype:
   type: technical-report
 subdoctype: Use Case
@@ -67,4 +67,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/03/plateau_tech_doc_0033_ver01.jpg
       mimetype: image/jpeg
-  filesize: 5344639
+  filesize: 234

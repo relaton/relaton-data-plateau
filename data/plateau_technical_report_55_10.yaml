@@ -49,6 +49,9 @@ abstract:
   script:
   - Jpan
   format: text/plain
+keyword:
+- content: 空間ID
+- content: 2022年度
 doctype:
   type: technical-report
 subdoctype: Data
@@ -64,4 +67,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/03/tech_doc_0055_ver01-scaled.jpg
       mimetype: image/jpeg
-  filesize: 13971949
+  filesize: 234

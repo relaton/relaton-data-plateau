@@ -50,11 +50,11 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2022年度
+- content: VR・メタバース
 - content: 人流データ
 - content: シミュレーション
 - content: QGIS
-- content: AR/VR
-- content: GIS
 doctype:
   type: technical-report
 subdoctype: Use Case
@@ -70,4 +70,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/02/tech_doc_0022_ver01.jpg
       mimetype: image/jpeg
-  filesize: 3980237
+  filesize: 234

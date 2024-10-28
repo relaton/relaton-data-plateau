@@ -50,6 +50,7 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2021年度
 - content: ダッシュボード
 - content: Three.js
 doctype:
@@ -67,4 +68,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2022/03/plateau_tech_doc_0002_ver01-1-scaled.jpeg
       mimetype: image/jpeg
-  filesize: 12505850
+  filesize: 234

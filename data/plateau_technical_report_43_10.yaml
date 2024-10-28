@@ -50,6 +50,7 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2022年度
 - content: 人流データ
 - content: シミュレーション
 doctype:
@@ -67,4 +68,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/03/tech_doc_0043_ver01.jpg
       mimetype: image/jpeg
-  filesize: 5943148
+  filesize: 234

@@ -50,10 +50,10 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2022年度
 - content: CesiumJS
 - content: シミュレーション
 - content: PostGIS
-- content: AR/VR
 doctype:
   type: technical-report
 subdoctype: Use Case
@@ -69,4 +69,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/03/tech_doc_0011_ver01.jpeg
       mimetype: image/jpeg
-  filesize: 25512932
+  filesize: 234

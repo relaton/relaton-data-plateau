@@ -50,7 +50,7 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
-- content: シミュレーション
+- content: 2022年度
 - content: QGIS
 doctype:
   type: technical-report
@@ -67,4 +67,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/03/tech_doc_0015_ver01.jpeg
       mimetype: image/jpeg
-  filesize: 13547093
+  filesize: 234

@@ -50,9 +50,10 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2022年度
 - content: CesiumJS
 - content: VPS
-- content: AR/VR
+- content: AR
 - content: ARCore
 doctype:
   type: technical-report
@@ -69,4 +70,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/03/tech_doc_0037_ver01.jpg
       mimetype: image/jpeg
-  filesize: 8846414
+  filesize: 234

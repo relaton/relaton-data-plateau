@@ -50,9 +50,10 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 衛星画像
+- content: 2022年度
 - content: PyTorch
 - content: OpenCV
-- content: 可視化
 - content: AI
 doctype:
   type: technical-report
@@ -69,4 +70,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/03/tech_doc_0050_ver01.jpg
       mimetype: image/jpeg
-  filesize: 15138135
+  filesize: 234

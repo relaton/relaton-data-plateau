@@ -50,6 +50,8 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2023年度
+- content: PLATEAU SDK
 - content: OpenCV
 - content: Three.js
 - content: Unity
@@ -68,4 +70,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0079_ver01.jpg
       mimetype: image/jpeg
-  filesize: 13413660
+  filesize: 234

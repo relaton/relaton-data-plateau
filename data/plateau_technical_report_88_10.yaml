@@ -50,10 +50,13 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 自律運航
+- content: 2023年度
+- content: PLATEAU SDK
 - content: VPS
 - content: ROS
 - content: Unity
-- content: AR/VR
+- content: AR
 doctype:
   type: technical-report
 subdoctype: Use Case
@@ -69,4 +72,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0088_ver01.jpg
       mimetype: image/jpeg
-  filesize: 17045334
+  filesize: 234

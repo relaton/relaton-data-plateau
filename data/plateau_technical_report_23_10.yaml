@@ -50,11 +50,7 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
-- content: 可視化
-- content: CesiumJS
-- content: PostGIS
-- content: ダッシュボード
-- content: TerriaJS
+- content: 2022年度
 doctype:
   type: technical-report
 subdoctype: Use Case
@@ -70,4 +66,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/03/tech_doc_0023_ver01.jpg
       mimetype: image/jpeg
-  filesize: 17787394
+  filesize: 234

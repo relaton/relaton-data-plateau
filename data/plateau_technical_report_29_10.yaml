@@ -50,6 +50,7 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2022年度
 - content: シミュレーション
 - content: CFD
 doctype:
@@ -67,4 +68,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/02/plateau_tech_doc_0029_ver01.jpg
       mimetype: image/jpeg
-  filesize: 7280081
+  filesize: 234

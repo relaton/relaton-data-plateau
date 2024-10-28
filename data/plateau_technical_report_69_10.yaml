@@ -50,8 +50,10 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2023年度
+- content: PLATEAU SDK
+- content: Unreal Engine
 - content: PostGIS
-- content: デジタルツイン
 - content: AI
 doctype:
   type: technical-report
@@ -68,4 +70,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0069_ver01.jpg
       mimetype: image/jpeg
-  filesize: 9814612
+  filesize: 234

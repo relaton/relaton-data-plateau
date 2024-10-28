@@ -50,6 +50,8 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2022年度
+- content: PLATEAU SDK
 - content: シミュレーション
 - content: Unity
 doctype:
@@ -67,4 +69,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/03/plateau_tech_doc_0052_ver01.jpg
       mimetype: image/jpeg
-  filesize: 8366399
+  filesize: 234

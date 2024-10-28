@@ -50,8 +50,7 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
-- content: デジタルツイン
-- content: CityGML
+- content: 2021年度
 doctype:
   type: technical-report
 subdoctype: Data
@@ -67,4 +66,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2022/03/plateau_tech_doc_0003_ver01-scaled.jpeg
       mimetype: image/jpeg
-  filesize: 21753721
+  filesize: 234

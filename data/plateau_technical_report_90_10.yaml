@@ -50,10 +50,10 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2023年度
 - content: React
 - content: CesiumJS
 - content: シミュレーション
-- content: GIS
 - content: ドローン
 doctype:
   type: technical-report
@@ -70,4 +70,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0090_ver01-1.jpg
       mimetype: image/jpeg
-  filesize: 30208450
+  filesize: 234

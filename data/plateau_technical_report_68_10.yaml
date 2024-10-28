@@ -50,6 +50,10 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 不動産ID
+- content: 2023年度
+- content: Linked Open Data
+- content: React
 - content: PostGIS
 doctype:
   type: technical-report
@@ -66,4 +70,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0068_ver01.jpg
       mimetype: image/jpeg
-  filesize: 8035301
+  filesize: 234

@@ -50,8 +50,11 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 自律運航
+- content: 2023年度
+- content: 点群データ
+- content: PLATEAU SDK
 - content: SLAM
-- content: ROS2
 doctype:
   type: technical-report
 subdoctype: Use Case
@@ -67,4 +70,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0087_ver01.jpg
       mimetype: image/jpeg
-  filesize: 15073292
+  filesize: 234

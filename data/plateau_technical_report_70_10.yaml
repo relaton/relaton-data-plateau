@@ -50,20 +50,26 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 空間ID
+- content: 2023年度
+- content: PLATEAU SDK
+- content: BIMモデル
+- content: Unreal Engine
+- content: IoT
 - content: 人流データ
 doctype:
   type: technical-report
-subdoctype: Data
+subdoctype: Use Case
 structuredidentifier:
 - docnumber: '70'
   type: Technical Report
   agency:
   - PLATEAU
-  class: Data
+  class: Use Case
 ext:
   schema-version: v0.0.1
   cover:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0070_ver01.jpg
       mimetype: image/jpeg
-  filesize: 17386088
+  filesize: 234

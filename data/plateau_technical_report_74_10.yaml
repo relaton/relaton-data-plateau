@@ -50,12 +50,11 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2023年度
+- content: BIMモデル
 - content: OpenCV
-- content: 可視化
 - content: CesiumJS
 - content: QGIS
-- content: デジタルツイン
-- content: GIS
 doctype:
   type: technical-report
 subdoctype: Use Case
@@ -71,4 +70,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0074_ver01.jpg
       mimetype: image/jpeg
-  filesize: 15688421
+  filesize: 234

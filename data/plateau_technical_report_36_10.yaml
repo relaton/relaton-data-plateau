@@ -50,6 +50,7 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2022年度
 - content: シミュレーション
 doctype:
   type: technical-report
@@ -66,4 +67,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/03/plateau_tech_doc_0036_ver01.jpg
       mimetype: image/jpeg
-  filesize: 9950192
+  filesize: 234

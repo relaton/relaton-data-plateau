@@ -50,10 +50,10 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
-- content: 可視化
+- content: 2023年度
+- content: 点群データ
 - content: CesiumJS
 - content: ゲーミフィケーション
-- content: GIS
 - content: AI
 doctype:
   type: technical-report
@@ -70,4 +70,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0084_ver01.jpg
       mimetype: image/jpeg
-  filesize: 13837469
+  filesize: 234

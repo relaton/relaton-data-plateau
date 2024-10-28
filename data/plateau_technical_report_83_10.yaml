@@ -50,10 +50,9 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2023年度
 - content: ArcGIS
-- content: 可視化
 - content: シミュレーション
-- content: GIS
 doctype:
   type: technical-report
 subdoctype: Use Case
@@ -69,4 +68,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0083_ver01.jpg
       mimetype: image/jpeg
-  filesize: 9489331
+  filesize: 234

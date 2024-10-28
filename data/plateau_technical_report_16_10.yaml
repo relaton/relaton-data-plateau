@@ -50,7 +50,7 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
-- content: ArcGIS
+- content: 2022年度
 - content: シミュレーション
 doctype:
   type: technical-report
@@ -67,4 +67,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/02/tech_doc_0016_ver01.png
       mimetype: image/png
-  filesize: 3834784
+  filesize: 234

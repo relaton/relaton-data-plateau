@@ -49,6 +49,10 @@ abstract:
   script:
   - Jpan
   format: text/plain
+keyword:
+- content: 2022年度
+- content: 点群データ
+- content: AI
 doctype:
   type: technical-report
 subdoctype: Data
@@ -64,4 +68,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/04/plateau_tech_doc_0053_ver01.png
       mimetype: image/png
-  filesize: 17917514
+  filesize: 234

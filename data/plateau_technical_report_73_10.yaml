@@ -50,11 +50,12 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 不動産ID
+- content: 2023年度
 - content: ArcGIS
 - content: シミュレーション
 - content: CFD
 - content: ダッシュボード
-- content: GIS
 doctype:
   type: technical-report
 subdoctype: Use Case
@@ -70,4 +71,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0073_ver01.jpg
       mimetype: image/jpeg
-  filesize: 10750556
+  filesize: 234

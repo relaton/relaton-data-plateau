@@ -50,6 +50,8 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 自律運航
+- content: 2021年度
 - content: VPS
 - content: Unity
 doctype:
@@ -67,4 +69,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2022/03/plateau_tech_doc_0000_ver01-1-scaled.jpeg
       mimetype: image/jpeg
-  filesize: 18971353
+  filesize: 234

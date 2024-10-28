@@ -50,9 +50,10 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 自律運航
+- content: 2022年度
 - content: SLAM
 - content: CesiumJS
-- content: ROS
 - content: ドローン
 doctype:
   type: technical-report
@@ -69,4 +70,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/03/tech_doc_0049_ver01.jpg
       mimetype: image/jpeg
-  filesize: 5217848
+  filesize: 234

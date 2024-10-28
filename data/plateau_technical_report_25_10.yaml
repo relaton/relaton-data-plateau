@@ -50,9 +50,11 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 2022年度
+- content: VR・メタバース
 - content: AR.js
 - content: Three.js
-- content: AR/VR
+- content: AR
 doctype:
   type: technical-report
 subdoctype: Use Case
@@ -68,4 +70,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/02/plateau_tech_doc_0025_ver01.jpg
       mimetype: image/jpeg
-  filesize: 11793624
+  filesize: 234

@@ -50,8 +50,9 @@ abstract:
   - Jpan
   format: text/plain
 keyword:
+- content: 自律運航
+- content: 2022年度
 - content: SLAM
-- content: ROS2
 - content: Unity
 - content: ドローン
 doctype:
@@ -69,4 +70,4 @@ ext:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/03/plateau_tech_doc_0046_2_ver01.jpg
       mimetype: image/jpeg
-  filesize: 5804212
+  filesize: 234
