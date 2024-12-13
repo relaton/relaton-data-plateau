@@ -49,16 +49,16 @@ edition:
   content: '2.0'
   number: '2.0'
 revdate: '2023-03-27'
-doctype:
-  type: annex
-structuredidentifier:
-- docnumber: 03-1
-  type: Handbook
-  agency:
-  - PLATEAU
-  edition: '2.0'
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: annex
+  structuredidentifier:
+  - docnumber: 03-1
+    type: Handbook
+    agency:
+    - PLATEAU
+    edition: '2.0'
   cover:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2021/03/plateu_layout_2022_ol-12-scaled.jpg

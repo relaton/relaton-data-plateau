@@ -56,16 +56,16 @@ abstract:
   script:
   - Jpan
   format: text/plain
-doctype:
-  type: handbook
-structuredidentifier:
-- docnumber: '02'
-  type: Handbook
-  agency:
-  - PLATEAU
-  edition: '2.2'
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: handbook
+  structuredidentifier:
+  - docnumber: '02'
+    type: Handbook
+    agency:
+    - PLATEAU
+    edition: '2.2'
   cover:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2022/09/3@2x.jpg

@@ -52,17 +52,17 @@ abstract:
 keyword:
 - content: 2022年度
 - content: シミュレーション
-doctype:
-  type: technical-report
-subdoctype: Use Case
-structuredidentifier:
-- docnumber: '36'
-  type: Technical Report
-  agency:
-  - PLATEAU
-  class: Use Case
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  subdoctype: Use Case
+  structuredidentifier:
+  - docnumber: '36'
+    type: Technical Report
+    agency:
+    - PLATEAU
+    class: Use Case
   cover:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/03/plateau_tech_doc_0036_ver01.jpg

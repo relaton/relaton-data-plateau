@@ -51,17 +51,17 @@ abstract:
   format: text/plain
 keyword:
 - content: 2021年度
-doctype:
-  type: technical-report
-subdoctype: Data
-structuredidentifier:
-- docnumber: '54'
-  type: Technical Report
-  agency:
-  - PLATEAU
-  class: Data
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  subdoctype: Data
+  structuredidentifier:
+  - docnumber: '54'
+    type: Technical Report
+    agency:
+    - PLATEAU
+    class: Data
   cover:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/04/plateau_tech_doc_0054_ver01.jpg

@@ -53,17 +53,17 @@ keyword:
 - content: 2023年度
 - content: ArcGIS
 - content: シミュレーション
-doctype:
-  type: technical-report
-subdoctype: Use Case
-structuredidentifier:
-- docnumber: '83'
-  type: Technical Report
-  agency:
-  - PLATEAU
-  class: Use Case
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  subdoctype: Use Case
+  structuredidentifier:
+  - docnumber: '83'
+    type: Technical Report
+    agency:
+    - PLATEAU
+    class: Use Case
   cover:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0083_ver01.jpg

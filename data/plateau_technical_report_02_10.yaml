@@ -53,17 +53,17 @@ keyword:
 - content: 2021年度
 - content: ダッシュボード
 - content: Three.js
-doctype:
-  type: technical-report
-subdoctype: Use Case
-structuredidentifier:
-- docnumber: '02'
-  type: Technical Report
-  agency:
-  - PLATEAU
-  class: Use Case
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  subdoctype: Use Case
+  structuredidentifier:
+  - docnumber: '02'
+    type: Technical Report
+    agency:
+    - PLATEAU
+    class: Use Case
   cover:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2022/03/plateau_tech_doc_0002_ver01-1-scaled.jpeg

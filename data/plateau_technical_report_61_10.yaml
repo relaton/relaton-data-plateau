@@ -52,17 +52,17 @@ abstract:
 keyword:
 - content: 2023年度
 - content: AI
-doctype:
-  type: technical-report
-subdoctype: Data
-structuredidentifier:
-- docnumber: '61'
-  type: Technical Report
-  agency:
-  - PLATEAU
-  class: Data
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  subdoctype: Data
+  structuredidentifier:
+  - docnumber: '61'
+    type: Technical Report
+    agency:
+    - PLATEAU
+    class: Data
   cover:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0061_ver01.jpg

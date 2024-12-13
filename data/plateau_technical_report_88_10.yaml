@@ -57,17 +57,17 @@ keyword:
 - content: ROS
 - content: Unity
 - content: AR
-doctype:
-  type: technical-report
-subdoctype: Use Case
-structuredidentifier:
-- docnumber: '88'
-  type: Technical Report
-  agency:
-  - PLATEAU
-  class: Use Case
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  subdoctype: Use Case
+  structuredidentifier:
+  - docnumber: '88'
+    type: Technical Report
+    agency:
+    - PLATEAU
+    class: Use Case
   cover:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0088_ver01.jpg

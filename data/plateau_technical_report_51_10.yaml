@@ -53,17 +53,17 @@ keyword:
 - content: 2022年度
 - content: 点群データ
 - content: PostGIS
-doctype:
-  type: technical-report
-subdoctype: Use Case
-structuredidentifier:
-- docnumber: '51'
-  type: Technical Report
-  agency:
-  - PLATEAU
-  class: Use Case
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  subdoctype: Use Case
+  structuredidentifier:
+  - docnumber: '51'
+    type: Technical Report
+    agency:
+    - PLATEAU
+    class: Use Case
   cover:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2023/03/tech_doc_0051_ver01.jpg

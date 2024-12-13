@@ -49,16 +49,16 @@ edition:
   content: '4.0'
   number: '4.0'
 revdate: '2024-04-04'
-doctype:
-  type: handbook
-structuredidentifier:
-- docnumber: '11'
-  type: Handbook
-  agency:
-  - PLATEAU
-  edition: '4.0'
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: handbook
+  structuredidentifier:
+  - docnumber: '11'
+    type: Handbook
+    agency:
+    - PLATEAU
+    edition: '4.0'
   cover:
     image:
       src: https://www.mlit.go.jp//plateau/uploads/2024/04/plateau_doc_0011_ver04.jpg
