@@ -1,0 +1,67 @@
+---
+id: PLATEAUTechnicalReport4110
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 容積率可視化シミュレータ 技術検証レポート
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0041_ver01.pdf
+docidentifier:
+- content: 'PLATEAU Technical Report #41 1.0'
+  type: PLATEAU
+  primary: true
+docnumber: 'Technical Report #41 1.0'
+date:
+- type: published
+  at: '2023-03-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '1.0'
+  content: '1.0'
+abstract:
+- language: ja
+  script: Jpan
+  content: 容積率可視化シミュレータ開発の技術資料（2022年度）
+keyword:
+- taxon:
+  - content: 2022年度
+- taxon:
+  - content: Babylon.js
+- taxon:
+  - content: CesiumJS
+- taxon:
+  - content: シミュレーション
+depiction:
+  scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2023/03/tech_doc_0041_ver01.jpg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.0.2
+  doctype:
+    content: technical-report
+  subdoctype: Use Case
+  flavor: plateau
+  structuredidentifier:
+  - type: Technical Report
+    agency:
+    - PLATEAU
+    klass: Use Case
+    docnumber: '41'
+  filesize: 13665935

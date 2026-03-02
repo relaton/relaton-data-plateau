@@ -1,237 +1,309 @@
 ---
+- :id: 'PLATEAU Handbook #00 5.0'
+  :file: data/plateau-handbook-00-50.yaml
 - :id: 'PLATEAU Handbook #00 4.0'
-  :file: data/plateau_handbook_00_40.yaml
+  :file: data/plateau-handbook-00-40.yaml
 - :id: 'PLATEAU Handbook #00 3.0'
-  :file: data/plateau_handbook_00_30.yaml
+  :file: data/plateau-handbook-00-30.yaml
 - :id: 'PLATEAU Handbook #00 2.0'
-  :file: data/plateau_handbook_00_20.yaml
+  :file: data/plateau-handbook-00-20.yaml
 - :id: 'PLATEAU Handbook #00 1.0'
-  :file: data/plateau_handbook_00_10.yaml
+  :file: data/plateau-handbook-00-10.yaml
+- :id: 'PLATEAU Handbook #01 5.0'
+  :file: data/plateau-handbook-01-50.yaml
 - :id: 'PLATEAU Handbook #01 4.1'
-  :file: data/plateau_handbook_01_41.yaml
+  :file: data/plateau-handbook-01-41.yaml
 - :id: 'PLATEAU Handbook #01 3.5'
-  :file: data/plateau_handbook_01_35.yaml
+  :file: data/plateau-handbook-01-35.yaml
 - :id: 'PLATEAU Handbook #01 2.3'
-  :file: data/plateau_handbook_01_23.yaml
+  :file: data/plateau-handbook-01-23.yaml
 - :id: 'PLATEAU Handbook #01 1.0'
-  :file: data/plateau_handbook_01_10.yaml
+  :file: data/plateau-handbook-01-10.yaml
+- :id: 'PLATEAU Handbook #02 5.0'
+  :file: data/plateau-handbook-02-50.yaml
 - :id: 'PLATEAU Handbook #02 4.1'
-  :file: data/plateau_handbook_02_41.yaml
+  :file: data/plateau-handbook-02-41.yaml
 - :id: 'PLATEAU Handbook #02 3.5'
-  :file: data/plateau_handbook_02_35.yaml
+  :file: data/plateau-handbook-02-35.yaml
 - :id: 'PLATEAU Handbook #02 2.2'
-  :file: data/plateau_handbook_02_22.yaml
+  :file: data/plateau-handbook-02-22.yaml
 - :id: 'PLATEAU Handbook #02 1.0'
-  :file: data/plateau_handbook_02_10.yaml
+  :file: data/plateau-handbook-02-10.yaml
+- :id: 'PLATEAU Handbook #03 4.0'
+  :file: data/plateau-handbook-03-40.yaml
 - :id: 'PLATEAU Handbook #03 3.0'
-  :file: data/plateau_handbook_03_30.yaml
+  :file: data/plateau-handbook-03-30.yaml
 - :id: 'PLATEAU Handbook #03 2.0'
-  :file: data/plateau_handbook_03_20.yaml
+  :file: data/plateau-handbook-03-20.yaml
 - :id: 'PLATEAU Handbook #03 1.0'
-  :file: data/plateau_handbook_03_10.yaml
+  :file: data/plateau-handbook-03-10.yaml
+- :id: 'PLATEAU Handbook #03-1 3.0'
+  :file: data/plateau-handbook-03-1-30.yaml
 - :id: 'PLATEAU Handbook #03-1 2.0'
-  :file: data/plateau_handbook_031_20.yaml
+  :file: data/plateau-handbook-03-1-20.yaml
 - :id: 'PLATEAU Handbook #03-1 1.0'
-  :file: data/plateau_handbook_031_10.yaml
-- :id: 'PLATEAU Handbook #05 2.1'
-  :file: data/plateau_handbook_05_21.yaml
+  :file: data/plateau-handbook-03-1-10.yaml
+- :id: 'PLATEAU Handbook #05 2.2'
+  :file: data/plateau-handbook-05-22.yaml
 - :id: 'PLATEAU Handbook #05 1.0'
-  :file: data/plateau_handbook_05_10.yaml
+  :file: data/plateau-handbook-05-10.yaml
+- :id: 'PLATEAU Handbook #07 3.0'
+  :file: data/plateau-handbook-07-30.yaml
 - :id: 'PLATEAU Handbook #07 2.0'
-  :file: data/plateau_handbook_07_20.yaml
+  :file: data/plateau-handbook-07-20.yaml
 - :id: 'PLATEAU Handbook #07 1.0'
-  :file: data/plateau_handbook_07_10.yaml
+  :file: data/plateau-handbook-07-10.yaml
 - :id: 'PLATEAU Handbook #08 2.0'
-  :file: data/plateau_handbook_08_20.yaml
+  :file: data/plateau-handbook-08-20.yaml
 - :id: 'PLATEAU Handbook #08 1.0'
-  :file: data/plateau_handbook_08_10.yaml
+  :file: data/plateau-handbook-08-10.yaml
+- :id: 'PLATEAU Handbook #09 5.0'
+  :file: data/plateau-handbook-09-50.yaml
 - :id: 'PLATEAU Handbook #09 4.0'
-  :file: data/plateau_handbook_09_40.yaml
+  :file: data/plateau-handbook-09-40.yaml
 - :id: 'PLATEAU Handbook #09 3.0'
-  :file: data/plateau_handbook_09_30.yaml
+  :file: data/plateau-handbook-09-30.yaml
 - :id: 'PLATEAU Handbook #09 2.0'
-  :file: data/plateau_handbook_09_20.yaml
+  :file: data/plateau-handbook-09-20.yaml
 - :id: 'PLATEAU Handbook #09 1.0'
-  :file: data/plateau_handbook_09_10.yaml
+  :file: data/plateau-handbook-09-10.yaml
+- :id: 'PLATEAU Handbook #10 4.0'
+  :file: data/plateau-handbook-10-40.yaml
 - :id: 'PLATEAU Handbook #10 3.0'
-  :file: data/plateau_handbook_10_30.yaml
+  :file: data/plateau-handbook-10-30.yaml
 - :id: 'PLATEAU Handbook #10 2.0'
-  :file: data/plateau_handbook_10_20.yaml
+  :file: data/plateau-handbook-10-20.yaml
 - :id: 'PLATEAU Handbook #10 1.0'
-  :file: data/plateau_handbook_10_10.yaml
+  :file: data/plateau-handbook-10-10.yaml
+- :id: 'PLATEAU Handbook #10-1 1.0'
+  :file: data/plateau-handbook-10-1-10.yaml
+- :id: 'PLATEAU Handbook #11 5.0'
+  :file: data/plateau-handbook-11-50.yaml
 - :id: 'PLATEAU Handbook #11 4.0'
-  :file: data/plateau_handbook_11_40.yaml
+  :file: data/plateau-handbook-11-40.yaml
 - :id: 'PLATEAU Handbook #11 3.0'
-  :file: data/plateau_handbook_11_30.yaml
+  :file: data/plateau-handbook-11-30.yaml
 - :id: 'PLATEAU Handbook #11 2.0'
-  :file: data/plateau_handbook_11_20.yaml
+  :file: data/plateau-handbook-11-20.yaml
 - :id: 'PLATEAU Handbook #11 1.0'
-  :file: data/plateau_handbook_11_10.yaml
+  :file: data/plateau-handbook-11-10.yaml
+- :id: 'PLATEAU Handbook #12 2.0'
+  :file: data/plateau-handbook-12-20.yaml
 - :id: 'PLATEAU Handbook #12 1.0'
-  :file: data/plateau_handbook_12_10.yaml
-- :id: 'PLATEAU Technical Report #93 1.0'
-  :file: data/plateau_technical_report_93_10.yaml
-- :id: 'PLATEAU Technical Report #92 1.0'
-  :file: data/plateau_technical_report_92_10.yaml
-- :id: 'PLATEAU Technical Report #91 1.0'
-  :file: data/plateau_technical_report_91_10.yaml
-- :id: 'PLATEAU Technical Report #90 1.0'
-  :file: data/plateau_technical_report_90_10.yaml
-- :id: 'PLATEAU Technical Report #88 1.0'
-  :file: data/plateau_technical_report_88_10.yaml
-- :id: 'PLATEAU Technical Report #87 1.0'
-  :file: data/plateau_technical_report_87_10.yaml
-- :id: 'PLATEAU Technical Report #86 1.0'
-  :file: data/plateau_technical_report_86_10.yaml
-- :id: 'PLATEAU Technical Report #85 1.0'
-  :file: data/plateau_technical_report_85_10.yaml
-- :id: 'PLATEAU Technical Report #84 1.0'
-  :file: data/plateau_technical_report_84_10.yaml
-- :id: 'PLATEAU Technical Report #83 1.0'
-  :file: data/plateau_technical_report_83_10.yaml
-- :id: 'PLATEAU Technical Report #82 1.0'
-  :file: data/plateau_technical_report_82_10.yaml
-- :id: 'PLATEAU Technical Report #81 1.0'
-  :file: data/plateau_technical_report_81_10.yaml
-- :id: 'PLATEAU Technical Report #80 1.0'
-  :file: data/plateau_technical_report_80_10.yaml
-- :id: 'PLATEAU Technical Report #79 1.0'
-  :file: data/plateau_technical_report_79_10.yaml
+  :file: data/plateau-handbook-12-10.yaml
+- :id: 'PLATEAU Technical Report #133 1.0'
+  :file: data/plateau-technical-report-133-10.yaml
+- :id: 'PLATEAU Technical Report #132 1.0'
+  :file: data/plateau-technical-report-132-10.yaml
+- :id: 'PLATEAU Technical Report #131 1.0'
+  :file: data/plateau-technical-report-131-10.yaml
+- :id: 'PLATEAU Technical Report #100 1.0'
+  :file: data/plateau-technical-report-100-10.yaml
+- :id: 'PLATEAU Technical Report #119 1.0'
+  :file: data/plateau-technical-report-119-10.yaml
+- :id: 'PLATEAU Technical Report #114 1.0'
+  :file: data/plateau-technical-report-114-10.yaml
+- :id: 'PLATEAU Technical Report #115 1.0'
+  :file: data/plateau-technical-report-115-10.yaml
+- :id: 'PLATEAU Technical Report #117 1.0'
+  :file: data/plateau-technical-report-117-10.yaml
+- :id: 'PLATEAU Technical Report #103 1.0'
+  :file: data/plateau-technical-report-103-10.yaml
+- :id: 'PLATEAU Technical Report #97 1.0'
+  :file: data/plateau-technical-report-97-10.yaml
+- :id: 'PLATEAU Technical Report #111 1.0'
+  :file: data/plateau-technical-report-111-10.yaml
+- :id: 'PLATEAU Technical Report #116 1.0'
+  :file: data/plateau-technical-report-116-10.yaml
+- :id: 'PLATEAU Technical Report #118 1.0'
+  :file: data/plateau-technical-report-118-10.yaml
+- :id: 'PLATEAU Technical Report #101 1.0'
+  :file: data/plateau-technical-report-101-10.yaml
+- :id: 'PLATEAU Technical Report #108 1.0'
+  :file: data/plateau-technical-report-108-10.yaml
+- :id: 'PLATEAU Technical Report #96 1.0'
+  :file: data/plateau-technical-report-96-10.yaml
+- :id: 'PLATEAU Technical Report #102 1.0'
+  :file: data/plateau-technical-report-102-10.yaml
+- :id: 'PLATEAU Technical Report #104 1.0'
+  :file: data/plateau-technical-report-104-10.yaml
+- :id: 'PLATEAU Technical Report #105 1.0'
+  :file: data/plateau-technical-report-105-10.yaml
+- :id: 'PLATEAU Technical Report #109 1.0'
+  :file: data/plateau-technical-report-109-10.yaml
+- :id: 'PLATEAU Technical Report #110 1.0'
+  :file: data/plateau-technical-report-110-10.yaml
+- :id: 'PLATEAU Technical Report #112 1.0'
+  :file: data/plateau-technical-report-112-10.yaml
+- :id: 'PLATEAU Technical Report #106 1.0'
+  :file: data/plateau-technical-report-106-10.yaml
+- :id: 'PLATEAU Technical Report #107 1.0'
+  :file: data/plateau-technical-report-107-10.yaml
+- :id: 'PLATEAU Technical Report #113 1.0'
+  :file: data/plateau-technical-report-113-10.yaml
 - :id: 'PLATEAU Technical Report #78 1.0'
-  :file: data/plateau_technical_report_78_10.yaml
-- :id: 'PLATEAU Technical Report #77 1.0'
-  :file: data/plateau_technical_report_77_10.yaml
-- :id: 'PLATEAU Technical Report #76 1.0'
-  :file: data/plateau_technical_report_76_10.yaml
-- :id: 'PLATEAU Technical Report #75 1.0'
-  :file: data/plateau_technical_report_75_10.yaml
-- :id: 'PLATEAU Technical Report #74 1.0'
-  :file: data/plateau_technical_report_74_10.yaml
+  :file: data/plateau-technical-report-78-10.yaml
 - :id: 'PLATEAU Technical Report #73 1.0'
-  :file: data/plateau_technical_report_73_10.yaml
-- :id: 'PLATEAU Technical Report #72 1.0'
-  :file: data/plateau_technical_report_72_10.yaml
-- :id: 'PLATEAU Technical Report #71 1.0'
-  :file: data/plateau_technical_report_71_10.yaml
-- :id: 'PLATEAU Technical Report #70 1.0'
-  :file: data/plateau_technical_report_70_10.yaml
-- :id: 'PLATEAU Technical Report #69 1.0'
-  :file: data/plateau_technical_report_69_10.yaml
-- :id: 'PLATEAU Technical Report #68 1.0'
-  :file: data/plateau_technical_report_68_10.yaml
-- :id: 'PLATEAU Technical Report #67 1.0'
-  :file: data/plateau_technical_report_67_10.yaml
-- :id: 'PLATEAU Technical Report #66 1.0'
-  :file: data/plateau_technical_report_66_10.yaml
-- :id: 'PLATEAU Technical Report #63 1.0'
-  :file: data/plateau_technical_report_63_10.yaml
-- :id: 'PLATEAU Technical Report #62 1.0'
-  :file: data/plateau_technical_report_62_10.yaml
+  :file: data/plateau-technical-report-73-10.yaml
+- :id: 'PLATEAU Technical Report #84 1.0'
+  :file: data/plateau-technical-report-84-10.yaml
+- :id: 'PLATEAU Technical Report #83 1.0'
+  :file: data/plateau-technical-report-83-10.yaml
+- :id: 'PLATEAU Technical Report #85 1.0'
+  :file: data/plateau-technical-report-85-10.yaml
 - :id: 'PLATEAU Technical Report #61 1.0'
-  :file: data/plateau_technical_report_61_10.yaml
-- :id: 'PLATEAU Technical Report #60 1.0'
-  :file: data/plateau_technical_report_60_10.yaml
+  :file: data/plateau-technical-report-61-10.yaml
+- :id: 'PLATEAU Technical Report #86 1.0'
+  :file: data/plateau-technical-report-86-10.yaml
+- :id: 'PLATEAU Technical Report #69 1.0'
+  :file: data/plateau-technical-report-69-10.yaml
+- :id: 'PLATEAU Technical Report #66 1.0'
+  :file: data/plateau-technical-report-66-10.yaml
+- :id: 'PLATEAU Technical Report #76 1.0'
+  :file: data/plateau-technical-report-76-10.yaml
+- :id: 'PLATEAU Technical Report #91 1.0'
+  :file: data/plateau-technical-report-91-10.yaml
+- :id: 'PLATEAU Technical Report #79 1.0'
+  :file: data/plateau-technical-report-79-10.yaml
+- :id: 'PLATEAU Technical Report #90 1.0'
+  :file: data/plateau-technical-report-90-10.yaml
 - :id: 'PLATEAU Technical Report #59 1.0'
-  :file: data/plateau_technical_report_59_10.yaml
+  :file: data/plateau-technical-report-59-10.yaml
+- :id: 'PLATEAU Technical Report #77 1.0'
+  :file: data/plateau-technical-report-77-10.yaml
+- :id: 'PLATEAU Technical Report #71 1.0'
+  :file: data/plateau-technical-report-71-10.yaml
+- :id: 'PLATEAU Technical Report #88 1.0'
+  :file: data/plateau-technical-report-88-10.yaml
+- :id: 'PLATEAU Technical Report #67 1.0'
+  :file: data/plateau-technical-report-67-10.yaml
+- :id: 'PLATEAU Technical Report #74 1.0'
+  :file: data/plateau-technical-report-74-10.yaml
+- :id: 'PLATEAU Technical Report #72 1.0'
+  :file: data/plateau-technical-report-72-10.yaml
+- :id: 'PLATEAU Technical Report #75 1.0'
+  :file: data/plateau-technical-report-75-10.yaml
+- :id: 'PLATEAU Technical Report #92 1.0'
+  :file: data/plateau-technical-report-92-10.yaml
+- :id: 'PLATEAU Technical Report #62 1.0'
+  :file: data/plateau-technical-report-62-10.yaml
+- :id: 'PLATEAU Technical Report #93 1.0'
+  :file: data/plateau-technical-report-93-10.yaml
+- :id: 'PLATEAU Technical Report #87 1.0'
+  :file: data/plateau-technical-report-87-10.yaml
+- :id: 'PLATEAU Technical Report #60 1.0'
+  :file: data/plateau-technical-report-60-10.yaml
+- :id: 'PLATEAU Technical Report #80 1.0'
+  :file: data/plateau-technical-report-80-10.yaml
+- :id: 'PLATEAU Technical Report #63 1.0'
+  :file: data/plateau-technical-report-63-10.yaml
+- :id: 'PLATEAU Technical Report #68 1.0'
+  :file: data/plateau-technical-report-68-10.yaml
+- :id: 'PLATEAU Technical Report #70 1.0'
+  :file: data/plateau-technical-report-70-10.yaml
+- :id: 'PLATEAU Technical Report #81 1.0'
+  :file: data/plateau-technical-report-81-10.yaml
+- :id: 'PLATEAU Technical Report #82 1.0'
+  :file: data/plateau-technical-report-82-10.yaml
 - :id: 'PLATEAU Technical Report #58 1.0'
-  :file: data/plateau_technical_report_58_10.yaml
+  :file: data/plateau-technical-report-58-10.yaml
 - :id: 'PLATEAU Technical Report #57 1.0'
-  :file: data/plateau_technical_report_57_10.yaml
+  :file: data/plateau-technical-report-57-10.yaml
 - :id: 'PLATEAU Technical Report #53 1.0'
-  :file: data/plateau_technical_report_53_10.yaml
+  :file: data/plateau-technical-report-53-10.yaml
 - :id: 'PLATEAU Technical Report #54 1.0'
-  :file: data/plateau_technical_report_54_10.yaml
+  :file: data/plateau-technical-report-54-10.yaml
 - :id: 'PLATEAU Technical Report #56 1.0'
-  :file: data/plateau_technical_report_56_10.yaml
+  :file: data/plateau-technical-report-56-10.yaml
 - :id: 'PLATEAU Technical Report #48 1.0'
-  :file: data/plateau_technical_report_48_10.yaml
+  :file: data/plateau-technical-report-48-10.yaml
 - :id: 'PLATEAU Technical Report #19 1.0'
-  :file: data/plateau_technical_report_19_10.yaml
+  :file: data/plateau-technical-report-19-10.yaml
 - :id: 'PLATEAU Technical Report #51 1.0'
-  :file: data/plateau_technical_report_51_10.yaml
+  :file: data/plateau-technical-report-51-10.yaml
 - :id: 'PLATEAU Technical Report #46_1 1.0'
-  :file: data/plateau_technical_report_46_1_10.yaml
+  :file: data/plateau-technical-report-46_1-10.yaml
 - :id: 'PLATEAU Technical Report #45 1.0'
-  :file: data/plateau_technical_report_45_10.yaml
+  :file: data/plateau-technical-report-45-10.yaml
 - :id: 'PLATEAU Technical Report #40 1.0'
-  :file: data/plateau_technical_report_40_10.yaml
+  :file: data/plateau-technical-report-40-10.yaml
 - :id: 'PLATEAU Technical Report #37 1.0'
-  :file: data/plateau_technical_report_37_10.yaml
+  :file: data/plateau-technical-report-37-10.yaml
 - :id: 'PLATEAU Technical Report #55 1.0'
-  :file: data/plateau_technical_report_55_10.yaml
+  :file: data/plateau-technical-report-55-10.yaml
 - :id: 'PLATEAU Technical Report #50 1.0'
-  :file: data/plateau_technical_report_50_10.yaml
+  :file: data/plateau-technical-report-50-10.yaml
 - :id: 'PLATEAU Technical Report #49 1.0'
-  :file: data/plateau_technical_report_49_10.yaml
+  :file: data/plateau-technical-report-49-10.yaml
 - :id: 'PLATEAU Technical Report #46_2 1.0'
-  :file: data/plateau_technical_report_46_2_10.yaml
+  :file: data/plateau-technical-report-46_2-10.yaml
 - :id: 'PLATEAU Technical Report #43 1.0'
-  :file: data/plateau_technical_report_43_10.yaml
+  :file: data/plateau-technical-report-43-10.yaml
 - :id: 'PLATEAU Technical Report #42 1.0'
-  :file: data/plateau_technical_report_42_10.yaml
+  :file: data/plateau-technical-report-42-10.yaml
 - :id: 'PLATEAU Technical Report #41 1.0'
-  :file: data/plateau_technical_report_41_10.yaml
+  :file: data/plateau-technical-report-41-10.yaml
 - :id: 'PLATEAU Technical Report #35 1.0'
-  :file: data/plateau_technical_report_35_10.yaml
+  :file: data/plateau-technical-report-35-10.yaml
 - :id: 'PLATEAU Technical Report #32 1.0'
-  :file: data/plateau_technical_report_32_10.yaml
+  :file: data/plateau-technical-report-32-10.yaml
 - :id: 'PLATEAU Technical Report #28 1.0'
-  :file: data/plateau_technical_report_28_10.yaml
+  :file: data/plateau-technical-report-28-10.yaml
 - :id: 'PLATEAU Technical Report #23 1.0'
-  :file: data/plateau_technical_report_23_10.yaml
+  :file: data/plateau-technical-report-23-10.yaml
 - :id: 'PLATEAU Technical Report #22 1.0'
-  :file: data/plateau_technical_report_22_10.yaml
+  :file: data/plateau-technical-report-22-10.yaml
 - :id: 'PLATEAU Technical Report #21 1.0'
-  :file: data/plateau_technical_report_21_10.yaml
+  :file: data/plateau-technical-report-21-10.yaml
 - :id: 'PLATEAU Technical Report #16 1.0'
-  :file: data/plateau_technical_report_16_10.yaml
+  :file: data/plateau-technical-report-16-10.yaml
 - :id: 'PLATEAU Technical Report #15 1.0'
-  :file: data/plateau_technical_report_15_10.yaml
+  :file: data/plateau-technical-report-15-10.yaml
 - :id: 'PLATEAU Technical Report #11 1.0'
-  :file: data/plateau_technical_report_11_10.yaml
+  :file: data/plateau-technical-report-11-10.yaml
 - :id: 'PLATEAU Technical Report #52 1.0'
-  :file: data/plateau_technical_report_52_10.yaml
+  :file: data/plateau-technical-report-52-10.yaml
 - :id: 'PLATEAU Technical Report #47 1.0'
-  :file: data/plateau_technical_report_47_10.yaml
+  :file: data/plateau-technical-report-47-10.yaml
 - :id: 'PLATEAU Technical Report #44 1.0'
-  :file: data/plateau_technical_report_44_10.yaml
+  :file: data/plateau-technical-report-44-10.yaml
 - :id: 'PLATEAU Technical Report #39 1.0'
-  :file: data/plateau_technical_report_39_10.yaml
+  :file: data/plateau-technical-report-39-10.yaml
 - :id: 'PLATEAU Technical Report #38 1.0'
-  :file: data/plateau_technical_report_38_10.yaml
+  :file: data/plateau-technical-report-38-10.yaml
 - :id: 'PLATEAU Technical Report #36 1.0'
-  :file: data/plateau_technical_report_36_10.yaml
+  :file: data/plateau-technical-report-36-10.yaml
 - :id: 'PLATEAU Technical Report #34 1.0'
-  :file: data/plateau_technical_report_34_10.yaml
+  :file: data/plateau-technical-report-34-10.yaml
 - :id: 'PLATEAU Technical Report #33 1.0'
-  :file: data/plateau_technical_report_33_10.yaml
+  :file: data/plateau-technical-report-33-10.yaml
 - :id: 'PLATEAU Technical Report #31 1.0'
-  :file: data/plateau_technical_report_31_10.yaml
+  :file: data/plateau-technical-report-31-10.yaml
 - :id: 'PLATEAU Technical Report #30 1.0'
-  :file: data/plateau_technical_report_30_10.yaml
+  :file: data/plateau-technical-report-30-10.yaml
 - :id: 'PLATEAU Technical Report #29 1.0'
-  :file: data/plateau_technical_report_29_10.yaml
+  :file: data/plateau-technical-report-29-10.yaml
 - :id: 'PLATEAU Technical Report #27 1.0'
-  :file: data/plateau_technical_report_27_10.yaml
+  :file: data/plateau-technical-report-27-10.yaml
 - :id: 'PLATEAU Technical Report #26 1.0'
-  :file: data/plateau_technical_report_26_10.yaml
+  :file: data/plateau-technical-report-26-10.yaml
 - :id: 'PLATEAU Technical Report #25 1.0'
-  :file: data/plateau_technical_report_25_10.yaml
+  :file: data/plateau-technical-report-25-10.yaml
 - :id: 'PLATEAU Technical Report #24 1.0'
-  :file: data/plateau_technical_report_24_10.yaml
+  :file: data/plateau-technical-report-24-10.yaml
 - :id: 'PLATEAU Technical Report #20 1.0'
-  :file: data/plateau_technical_report_20_10.yaml
+  :file: data/plateau-technical-report-20-10.yaml
 - :id: 'PLATEAU Technical Report #18 1.0'
-  :file: data/plateau_technical_report_18_10.yaml
+  :file: data/plateau-technical-report-18-10.yaml
 - :id: 'PLATEAU Technical Report #17 1.0'
-  :file: data/plateau_technical_report_17_10.yaml
+  :file: data/plateau-technical-report-17-10.yaml
 - :id: 'PLATEAU Technical Report #14 1.0'
-  :file: data/plateau_technical_report_14_10.yaml
+  :file: data/plateau-technical-report-14-10.yaml
 - :id: 'PLATEAU Technical Report #03 1.0'
-  :file: data/plateau_technical_report_03_10.yaml
+  :file: data/plateau-technical-report-03-10.yaml
 - :id: 'PLATEAU Technical Report #02 1.0'
-  :file: data/plateau_technical_report_02_10.yaml
+  :file: data/plateau-technical-report-02-10.yaml
 - :id: 'PLATEAU Technical Report #01 1.0'
-  :file: data/plateau_technical_report_01_10.yaml
+  :file: data/plateau-technical-report-01-10.yaml
 - :id: 'PLATEAU Technical Report #00 1.0'
-  :file: data/plateau_technical_report_00_10.yaml
+  :file: data/plateau-technical-report-00-10.yaml

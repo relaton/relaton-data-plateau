@@ -1,0 +1,60 @@
+---
+id: PLATEAUHandbook0920
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: PLATEAU VIEW構築マニュアル
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0009_ver02.pdf
+docidentifier:
+- content: 'PLATEAU Handbook #09 2.0'
+  type: PLATEAU
+  primary: true
+docnumber: 'Handbook #09 2.0'
+date:
+- type: published
+  at: '2022-05-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '2.0'
+  content: '2.0'
+abstract:
+- language: en
+  script: Latn
+  content: 3D City Model Demonstration Manual
+- language: ja
+  script: Jpan
+  content: 3D都市モデルの可視化環境構築及びデータ重畳のための仕様・手順等のマニュアル
+depiction:
+  scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2024/04/plateau_doc_0009_ver04.jpg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.0.2
+  doctype:
+    content: handbook
+  flavor: plateau
+  structuredidentifier:
+  - type: Handbook
+    agency:
+    - PLATEAU
+    docnumber: '09'
+    edition: '2.0'
+  filesize: 6953153

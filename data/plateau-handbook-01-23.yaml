@@ -1,0 +1,60 @@
+---
+id: PLATEAUHandbook0123
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 3D都市モデル標準製品仕様書
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0001_ver02.pdf
+docidentifier:
+- content: 'PLATEAU Handbook #01 2.3'
+  type: PLATEAU
+  primary: true
+docnumber: 'Handbook #01 2.3'
+date:
+- type: published
+  at: '2022-09-30'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '2.3'
+  content: '2.3'
+abstract:
+- language: en
+  script: Latn
+  content: Standard Data Product Specification for 3D City Model
+- language: ja
+  script: Jpan
+  content: 国際標準規格であるCityGMLによる3D都市モデル整備のための標準製品仕様
+depiction:
+  scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2022/09/2@2x.jpg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.0.2
+  doctype:
+    content: handbook
+  flavor: plateau
+  structuredidentifier:
+  - type: Handbook
+    agency:
+    - PLATEAU
+    docnumber: '01'
+    edition: '2.3'
+  filesize: 16665122

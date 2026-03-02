@@ -1,0 +1,63 @@
+---
+id: PLATEAUTechnicalReport5610
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: AI等を活用したLOD2自動生成ツールの開発及びOSS化 技術検証レポート
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0056_ver01.pdf
+docidentifier:
+- content: 'PLATEAU Technical Report #56 1.0'
+  type: PLATEAU
+  primary: true
+docnumber: 'Technical Report #56 1.0'
+date:
+- type: published
+  at: '2023-04-04'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '1.0'
+  content: '1.0'
+abstract:
+- language: ja
+  script: Jpan
+  content: AI等を活用したLOD2自動生成ツールの開発及びOSS化の技術資料
+keyword:
+- taxon:
+  - content: 2022年度
+- taxon:
+  - content: AI
+depiction:
+  scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2023/04/plateau_tech_doc_0056_ver01.jpeg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.0.2
+  doctype:
+    content: technical-report
+  subdoctype: Data
+  flavor: plateau
+  structuredidentifier:
+  - type: Technical Report
+    agency:
+    - PLATEAU
+    klass: Data
+    docnumber: '56'
+  filesize: 12187772

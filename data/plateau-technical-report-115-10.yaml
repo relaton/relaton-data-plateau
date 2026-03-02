@@ -1,0 +1,61 @@
+---
+id: PLATEAUTechnicalReport11510
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 3D都市モデルを利用したネットワークデータ自動生成ツール 技術検証レポート
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0115_ver01.pdf
+docidentifier:
+- content: 'PLATEAU Technical Report #115 1.0'
+  type: PLATEAU
+  primary: true
+docnumber: 'Technical Report #115 1.0'
+date:
+- type: published
+  at: '2025-03-31'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '1.0'
+  content: '1.0'
+abstract:
+- language: ja
+  script: Jpan
+  content: 3D都市モデルを利用したネットワークデータ自動生成ツールの技術資料 (2024年度)
+keyword:
+- taxon:
+  - content: 2024年度
+depiction:
+  scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2025/03/thumbnail_plateau_tech_doc_0115_ver01-scaled.jpg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.0.2
+  doctype:
+    content: technical-report
+  subdoctype: Data
+  flavor: plateau
+  structuredidentifier:
+  - type: Technical Report
+    agency:
+    - PLATEAU
+    klass: Data
+    docnumber: '115'
+  filesize: 27379878

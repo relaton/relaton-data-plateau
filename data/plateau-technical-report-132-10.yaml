@@ -1,0 +1,65 @@
+---
+id: PLATEAUTechnicalReport13210
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 火災延焼シミュレーションシステムの開発　技術検証レポート
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0132_ver01.pdf
+docidentifier:
+- content: 'PLATEAU Technical Report #132 1.0'
+  type: PLATEAU
+  primary: true
+docnumber: 'Technical Report #132 1.0'
+date:
+- type: published
+  at: '2026-01-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '1.0'
+  content: '1.0'
+abstract:
+- language: ja
+  script: Jpan
+  content: 火災延焼シミュレーションシステムの開発の技術資料 (2025年度)
+keyword:
+- taxon:
+  - content: 2025年度
+- taxon:
+  - content: シミュレーション
+- taxon:
+  - content: 都市計画・まちづくり
+depiction:
+  scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2026/01/plateau_tech_doc_0132_ver01.jpg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.0.2
+  doctype:
+    content: technical-report
+  subdoctype: Data
+  flavor: plateau
+  structuredidentifier:
+  - type: Technical Report
+    agency:
+    - PLATEAU
+    klass: Data
+    docnumber: '132'
+  filesize: 9434396

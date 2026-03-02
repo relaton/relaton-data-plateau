@@ -1,0 +1,63 @@
+---
+id: PLATEAUTechnicalReport2010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ゲーミフィケーションによる参加型まちづくり 技術検証レポート
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0020_ver01.pdf
+docidentifier:
+- content: 'PLATEAU Technical Report #20 1.0'
+  type: PLATEAU
+  primary: true
+docnumber: 'Technical Report #20 1.0'
+date:
+- type: published
+  at: '2023-03-27'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '1.0'
+  content: '1.0'
+abstract:
+- language: ja
+  script: Jpan
+  content: ゲーミフィケーションによる参加型まちづくり手法開発の技術資料（2022年度）
+keyword:
+- taxon:
+  - content: 2022年度
+- taxon:
+  - content: ゲーミフィケーション
+depiction:
+  scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2023/03/plateau_tech_doc_0020_ver01.jpg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.0.2
+  doctype:
+    content: technical-report
+  subdoctype: Use Case
+  flavor: plateau
+  structuredidentifier:
+  - type: Technical Report
+    agency:
+    - PLATEAU
+    klass: Use Case
+    docnumber: '20'
+  filesize: 9647760

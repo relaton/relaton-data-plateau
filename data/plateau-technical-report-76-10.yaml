@@ -1,0 +1,67 @@
+---
+id: PLATEAUTechnicalReport7610
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 開発許可のDX v2.0 技術検証レポート
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0076_ver01.pdf
+docidentifier:
+- content: 'PLATEAU Technical Report #76 1.0'
+  type: PLATEAU
+  primary: true
+docnumber: 'Technical Report #76 1.0'
+date:
+- type: published
+  at: '2024-03-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '1.0'
+  content: '1.0'
+abstract:
+- language: ja
+  script: Jpan
+  content: 開発許可のDX v2.0の技術資料 (2023年度)
+keyword:
+- taxon:
+  - content: 2023年度
+- taxon:
+  - content: CesiumJS
+- taxon:
+  - content: PostGIS
+- taxon:
+  - content: TerriaJS
+depiction:
+  scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0076_ver01.jpg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.0.2
+  doctype:
+    content: technical-report
+  subdoctype: Use Case
+  flavor: plateau
+  structuredidentifier:
+  - type: Technical Report
+    agency:
+    - PLATEAU
+    klass: Use Case
+    docnumber: '76'
+  filesize: 38346915

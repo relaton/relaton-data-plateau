@@ -1,0 +1,57 @@
+---
+id: PLATEAUHandbook1130
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 3D都市モデルのユースケース開発マニュアル
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0004_ver03.pdf
+docidentifier:
+- content: 'PLATEAU Handbook #11 3.0'
+  type: PLATEAU
+  primary: true
+docnumber: 'Handbook #11 3.0'
+date:
+- type: published
+  at: '2023-04-04'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '3.0'
+  content: '3.0'
+abstract:
+- language: ja
+  script: Jpan
+  content: ユースケース開発のための基本的考え方・事例紹介・技術導入手順等のマニュアル
+depiction:
+  scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2024/04/plateau_doc_0011_ver04.jpg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.0.2
+  doctype:
+    content: handbook
+  flavor: plateau
+  structuredidentifier:
+  - type: Handbook
+    agency:
+    - PLATEAU
+    docnumber: '11'
+    edition: '3.0'
+  filesize: 40980838

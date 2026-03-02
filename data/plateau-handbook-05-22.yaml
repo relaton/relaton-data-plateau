@@ -1,0 +1,60 @@
+---
+id: PLATEAUHandbook0522
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 3D都市モデルを活用した災害リスク情報の可視化マニュアル
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0005_ver02.pdf
+docidentifier:
+- content: 'PLATEAU Handbook #05 2.2'
+  type: PLATEAU
+  primary: true
+docnumber: 'Handbook #05 2.2'
+date:
+- type: published
+  at: '2025-03-27'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '2.2'
+  content: '2.2'
+abstract:
+- language: en
+  script: Latn
+  content: Manual for the Visualization of Disaster Risk with 3D City Models
+- language: ja
+  script: Jpan
+  content: 災害リスク情報を3D都市モデルと統合表示するためのデータ作成・可視化・実装手順等のマニュアル
+depiction:
+  scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2022/03/6@2x.jpg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.0.2
+  doctype:
+    content: handbook
+  flavor: plateau
+  structuredidentifier:
+  - type: Handbook
+    agency:
+    - PLATEAU
+    docnumber: '05'
+    edition: '2.2'
+  filesize: 7753356

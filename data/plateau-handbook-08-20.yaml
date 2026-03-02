@@ -1,0 +1,60 @@
+---
+id: PLATEAUHandbook0820
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ビジュアルアイデンティティ（VI）マニュアル
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0008_ver02.pdf
+docidentifier:
+- content: 'PLATEAU Handbook #08 2.0'
+  type: PLATEAU
+  primary: true
+docnumber: 'Handbook #08 2.0'
+date:
+- type: published
+  at: '2024-03-22'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '2.0'
+  content: '2.0'
+abstract:
+- language: en
+  script: Latn
+  content: Visual Identity Manual for Project PLATEAU
+- language: ja
+  script: Jpan
+  content: Project  PLATEAUのロゴマーク及びイメージカラーを利用する場合のマニュアル
+depiction:
+  scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2021/03/9@2x.jpg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.0.2
+  doctype:
+    content: handbook
+  flavor: plateau
+  structuredidentifier:
+  - type: Handbook
+    agency:
+    - PLATEAU
+    docnumber: '08'
+    edition: '2.0'
+  filesize: 690430
