@@ -1,7 +1,7 @@
 ---
 id: PLATEAUTechnicalReport9110
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - language: ja
   script: Jpan
@@ -39,21 +39,21 @@ abstract:
   script: Jpan
   content: 公園管理のDXの技術資料 (2023年度)
 keyword:
-- taxon:
-  - content: 2023年度
-- taxon:
-  - content: CesiumJS
-- taxon:
-  - content: PostGIS
-- taxon:
-  - content: ダッシュボード
+- vocab:
+    content: 2023年度
+- vocab:
+    content: CesiumJS
+- vocab:
+    content: PostGIS
+- vocab:
+    content: ダッシュボード
 depiction:
-  scope: cover
+- scope: cover
   image:
   - src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0091_ver01_01.jpg
     mimetype: image/jpeg
 ext:
-  schema_version: v0.0.2
+  schema_version: v0.1.0
   doctype:
     content: technical-report
   subdoctype: Use Case

@@ -1,7 +1,7 @@
 ---
 id: PLATEAUTechnicalReport1410
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - language: ja
   script: Jpan
@@ -39,23 +39,23 @@ abstract:
   script: Jpan
   content: 高度な浸水シミュレーションの技術資料（2022年度）
 keyword:
-- taxon:
-  - content: 2022年度
-- taxon:
-  - content: ArcGIS
-- taxon:
-  - content: CesiumJS
-- taxon:
-  - content: TerriaJS
-- taxon:
-  - content: シミュレーション
+- vocab:
+    content: 2022年度
+- vocab:
+    content: ArcGIS
+- vocab:
+    content: CesiumJS
+- vocab:
+    content: TerriaJS
+- vocab:
+    content: シミュレーション
 depiction:
-  scope: cover
+- scope: cover
   image:
   - src: https://www.mlit.go.jp//plateau/uploads/2023/03/plateau_tech_doc_0014_ver01.jpg
     mimetype: image/jpeg
 ext:
-  schema_version: v0.0.2
+  schema_version: v0.1.0
   doctype:
     content: technical-report
   subdoctype: Use Case

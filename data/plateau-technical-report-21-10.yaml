@@ -1,7 +1,7 @@
 ---
 id: PLATEAUTechnicalReport2110
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - language: ja
   script: Jpan
@@ -39,21 +39,21 @@ abstract:
   script: Jpan
   content: デジタルツイン上で災害情報を統合するプラットフォーム開発の技術資料（2022年度）
 keyword:
-- taxon:
-  - content: 2022年度
-- taxon:
-  - content: IoT
-- taxon:
-  - content: Unreal Engine
-- taxon:
-  - content: 人流データ
+- vocab:
+    content: 2022年度
+- vocab:
+    content: IoT
+- vocab:
+    content: Unreal Engine
+- vocab:
+    content: 人流データ
 depiction:
-  scope: cover
+- scope: cover
   image:
   - src: https://www.mlit.go.jp//plateau/uploads/2023/02/tech_doc_0021_ver01.jpg
     mimetype: image/jpeg
 ext:
-  schema_version: v0.0.2
+  schema_version: v0.1.0
   doctype:
     content: technical-report
   subdoctype: Use Case

@@ -1,7 +1,7 @@
 ---
 id: PLATEAUTechnicalReport10610
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - language: ja
   script: Jpan
@@ -39,17 +39,17 @@ abstract:
   script: Jpan
   content: 開発許可のDX v3.0の技術資料 (2024年度)
 keyword:
-- taxon:
-  - content: 2024年度
-- taxon:
-  - content: CesiumJS
+- vocab:
+    content: 2024年度
+- vocab:
+    content: CesiumJS
 depiction:
-  scope: cover
+- scope: cover
   image:
   - src: https://www.mlit.go.jp//plateau/uploads/2025/03/thumbnail_plateau_tech_doc_0106_ver01-scaled.jpg
     mimetype: image/jpeg
 ext:
-  schema_version: v0.0.2
+  schema_version: v0.1.0
   doctype:
     content: technical-report
   subdoctype: Use Case

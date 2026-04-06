@@ -1,7 +1,7 @@
 ---
 id: PLATEAUTechnicalReport0310
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - language: ja
   script: Jpan
@@ -39,15 +39,15 @@ abstract:
   script: Jpan
   content: 3D都市モデルLOD3のデータ作成実証の技術資料（2021年度）
 keyword:
-- taxon:
-  - content: 2021年度
+- vocab:
+    content: 2021年度
 depiction:
-  scope: cover
+- scope: cover
   image:
   - src: https://www.mlit.go.jp//plateau/uploads/2022/03/plateau_tech_doc_0003_ver01-scaled.jpeg
     mimetype: image/jpeg
 ext:
-  schema_version: v0.0.2
+  schema_version: v0.1.0
   doctype:
     content: technical-report
   subdoctype: Data

@@ -1,23 +1,23 @@
 ---
-id: PLATEAUHandbook1040
+id: PLATEAUHandbook0960
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - language: ja
   script: Jpan
-  content: 3D都市モデル整備のための測量マニュアル
+  content: PLATEAU VIEW構築マニュアル
   type: main
 source:
 - type: pdf
-  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0010_ver04.pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0009_ver06.pdf
 docidentifier:
-- content: 'PLATEAU Handbook #10 4.0'
+- content: 'PLATEAU Handbook #09 6.0'
   type: PLATEAU
   primary: true
-docnumber: 'Handbook #10 4.0'
+docnumber: 'Handbook #09 6.0'
 date:
 - type: published
-  at: '2025-04-04'
+  at: '2026-03-23'
 contributor:
 - role:
   - type: publisher
@@ -32,22 +32,22 @@ contributor:
     abbreviation:
       content: MLIT
 edition:
-  number: '4.0'
-  content: '4.0'
+  number: '6.0'
+  content: '6.0'
 abstract:
 - language: en
   script: Latn
-  content: Manual of Survey for 3D City Modeling
+  content: 3D City Model Demonstration Manual
 - language: ja
   script: Jpan
-  content: 3D都市モデル（建物モデル）の整備のための標準的な測量作業マニュアル
+  content: 3D都市モデルの可視化環境構築及びデータ重畳のための仕様・手順等のマニュアル
 depiction:
-  scope: cover
+- scope: cover
   image:
-  - src: https://www.mlit.go.jp//plateau/uploads/2021/03/11@2x.jpg
+  - src: https://www.mlit.go.jp//plateau/uploads/2024/04/plateau_doc_0009_ver04.jpg
     mimetype: image/jpeg
 ext:
-  schema_version: v0.0.2
+  schema_version: v0.1.0
   doctype:
     content: handbook
   flavor: plateau
@@ -55,6 +55,6 @@ ext:
   - type: Handbook
     agency:
     - PLATEAU
-    docnumber: '10'
-    edition: '4.0'
-  filesize: 5311194
+    docnumber: '09'
+    edition: '6.0'
+  filesize: 41175249

@@ -1,0 +1,53 @@
+---
+id: PLATEAUHandbook1410
+type: standard
+schema_version: v1.5.6
+title:
+- language: ja
+  script: Jpan
+  content: 3D都市モデルを活用した開発許可関係申請システムの要件定義資料
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0014_ver01.pdf
+docidentifier:
+- content: 'PLATEAU Handbook #14 1.0'
+  type: PLATEAU
+  primary: true
+docnumber: 'Handbook #14 1.0'
+date:
+- type: published
+  at: '2026-03-31'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '1.0'
+  content: '1.0'
+depiction:
+- scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2026/03/plateau_doc_0014_ver01.jpg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.1.0
+  doctype:
+    content: handbook
+  flavor: plateau
+  structuredidentifier:
+  - type: Handbook
+    agency:
+    - PLATEAU
+    docnumber: '14'
+    edition: '1.0'
+  filesize: 5175394

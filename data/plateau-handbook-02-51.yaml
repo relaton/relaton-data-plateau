@@ -1,7 +1,7 @@
 ---
-id: PLATEAUHandbook0250
+id: PLATEAUHandbook0251
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - language: ja
   script: Jpan
@@ -9,17 +9,15 @@ title:
   type: main
 source:
 - type: pdf
-  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0002_ver05.pdf
-- type: html
-  content: https://www.mlit.go.jp/plateaudocument02/
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0002_ver051.pdf
 docidentifier:
-- content: 'PLATEAU Handbook #02 5.0'
+- content: 'PLATEAU Handbook #02 5.1'
   type: PLATEAU
   primary: true
-docnumber: 'Handbook #02 5.0'
+docnumber: 'Handbook #02 5.1'
 date:
 - type: published
-  at: '2025-03-28'
+  at: '2026-03-31'
 contributor:
 - role:
   - type: publisher
@@ -34,8 +32,8 @@ contributor:
     abbreviation:
       content: MLIT
 edition:
-  number: '5.0'
-  content: '5.0'
+  number: '5.1'
+  content: '5.1'
 abstract:
 - language: en
   script: Latn
@@ -44,12 +42,12 @@ abstract:
   script: Jpan
   content: 国際標準規格であるCityGMLによる3D都市モデル整備のための標準作業手順
 depiction:
-  scope: cover
+- scope: cover
   image:
   - src: https://www.mlit.go.jp//plateau/uploads/2022/09/3@2x.jpg
     mimetype: image/jpeg
 ext:
-  schema_version: v0.0.2
+  schema_version: v0.1.0
   doctype:
     content: handbook
   flavor: plateau
@@ -58,5 +56,5 @@ ext:
     agency:
     - PLATEAU
     docnumber: '02'
-    edition: '5.0'
-  filesize: 60579672
+    edition: '5.1'
+  filesize: 63789137

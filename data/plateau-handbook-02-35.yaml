@@ -1,7 +1,7 @@
 ---
 id: PLATEAUHandbook0235
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - language: ja
   script: Jpan
@@ -42,12 +42,12 @@ abstract:
   script: Jpan
   content: 国際標準規格であるCityGMLによる3D都市モデル整備のための標準作業手順
 depiction:
-  scope: cover
+- scope: cover
   image:
   - src: https://www.mlit.go.jp//plateau/uploads/2022/09/3@2x.jpg
     mimetype: image/jpeg
 ext:
-  schema_version: v0.0.2
+  schema_version: v0.1.0
   doctype:
     content: handbook
   flavor: plateau

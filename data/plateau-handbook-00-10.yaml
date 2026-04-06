@@ -1,7 +1,7 @@
 ---
 id: PLATEAUHandbook0010
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - language: en
   script: Latn
@@ -42,12 +42,12 @@ abstract:
   script: Jpan
   content: 地方自治体担当者や民間事業者等に向けた 3D都市モデル導入のためのガイダンス
 depiction:
-  scope: cover
+- scope: cover
   image:
   - src: https://www.mlit.go.jp//plateau/uploads/2024/04/handbook_00_img--scaled.jpg
     mimetype: image/jpeg
 ext:
-  schema_version: v0.0.2
+  schema_version: v0.1.0
   doctype:
     content: handbook
   flavor: plateau

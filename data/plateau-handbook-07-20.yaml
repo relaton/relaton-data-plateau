@@ -1,7 +1,7 @@
 ---
 id: PLATEAUHandbook0720
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - language: ja
   script: Jpan
@@ -42,12 +42,12 @@ abstract:
   script: Jpan
   content: CityGMLを3DCG形式（OBJ/FBX/datasmith)及びBIM形式（IFC）へ変換するためのマニュアル
 depiction:
-  scope: cover
+- scope: cover
   image:
   - src: https://www.mlit.go.jp//plateau/uploads/2021/03/8@2x.jpg
     mimetype: image/jpeg
 ext:
-  schema_version: v0.0.2
+  schema_version: v0.1.0
   doctype:
     content: handbook
   flavor: plateau
