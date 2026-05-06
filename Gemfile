@@ -2,4 +2,4 @@
 
 source 'https://rubygems.org'
 
-gem 'relaton-plateau', "~> 2.0.0.alpha.2" # github: 'relaton/relaton-plateau', branch: 'main'
+gem 'relaton-plateau', github: 'relaton/relaton-plateau', branch: 'lutaml-integration'
