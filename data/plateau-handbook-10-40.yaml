@@ -1,25 +1,23 @@
 ---
-id: PLATEAUHandbook0251
+id: PLATEAUHandbook1040
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 3D都市モデル標準作業手順書
+  content: 3D都市モデル整備のための測量マニュアル
   type: main
 source:
 - type: pdf
-  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0002_ver051.pdf
-- type: html
-  content: https://www.mlit.go.jp/plateaudocument02/
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0010_ver04.pdf
 docidentifier:
-- content: 'PLATEAU Handbook #02 5.1'
+- content: 'PLATEAU Handbook #10 4.0'
   type: PLATEAU
   primary: true
-docnumber: 'Handbook #02 5.1'
+docnumber: 'Handbook #10 4.0'
 date:
 - type: published
-  at: '2026-03-31'
+  at: '2025-03-31'
 contributor:
 - role:
   - type: publisher
@@ -34,19 +32,19 @@ contributor:
     abbreviation:
       content: MLIT
 edition:
-  number: '5.1'
-  content: '5.1'
+  number: '4.0'
+  content: '4.0'
 abstract:
 - language: en
   script: Latn
-  content: Standard Implementation Procedures for 3D City Model
+  content: Manual of Survey for 3D City Modeling
 - language: ja
   script: Jpan
-  content: 国際標準規格であるCityGMLによる3D都市モデル整備のための標準作業手順
+  content: 3D都市モデル（建物モデル）の整備のための標準的な測量作業マニュアル
 depiction:
 - scope: cover
   image:
-  - src: https://www.mlit.go.jp//plateau/uploads/2022/09/3@2x.jpg
+  - src: https://www.mlit.go.jp//plateau/uploads/2021/03/11@2x.jpg
     mimetype: image/jpeg
 ext:
   schema_version: v0.1.0
@@ -57,6 +55,6 @@ ext:
   - type: Handbook
     agency:
     - PLATEAU
-    docnumber: '02'
-    edition: '5.1'
-  filesize: 63789137
+    docnumber: '10'
+    edition: '4.0'
+  filesize: 5311194

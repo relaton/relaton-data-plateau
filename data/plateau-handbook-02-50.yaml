@@ -1,5 +1,5 @@
 ---
-id: PLATEAUHandbook0251
+id: PLATEAUHandbook0250
 schema_version: v1.5.6
 type: standard
 title:
@@ -9,17 +9,15 @@ title:
   type: main
 source:
 - type: pdf
-  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0002_ver051.pdf
-- type: html
-  content: https://www.mlit.go.jp/plateaudocument02/
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0002_ver05.pdf
 docidentifier:
-- content: 'PLATEAU Handbook #02 5.1'
+- content: 'PLATEAU Handbook #02 5.0'
   type: PLATEAU
   primary: true
-docnumber: 'Handbook #02 5.1'
+docnumber: 'Handbook #02 5.0'
 date:
 - type: published
-  at: '2026-03-31'
+  at: '2025-03-21'
 contributor:
 - role:
   - type: publisher
@@ -34,8 +32,8 @@ contributor:
     abbreviation:
       content: MLIT
 edition:
-  number: '5.1'
-  content: '5.1'
+  number: '5.0'
+  content: '5.0'
 abstract:
 - language: en
   script: Latn
@@ -58,5 +56,5 @@ ext:
     agency:
     - PLATEAU
     docnumber: '02'
-    edition: '5.1'
-  filesize: 63789137
+    edition: '5.0'
+  filesize: 60579672

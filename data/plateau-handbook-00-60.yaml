@@ -1,7 +1,7 @@
 ---
 id: PLATEAUHandbook0060
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -57,4 +57,4 @@ ext:
     - PLATEAU
     docnumber: '00'
     edition: '6.0'
-  filesize: 1
+  filesize: 75735005

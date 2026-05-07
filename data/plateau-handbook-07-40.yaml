@@ -1,7 +1,7 @@
 ---
 id: PLATEAUHandbook0740
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: ja
   script: Jpan
@@ -9,7 +9,7 @@ title:
   type: main
 source:
 - type: pdf
-  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0007_ver04.pdf.pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0007_ver04.pdf
 docidentifier:
 - content: 'PLATEAU Handbook #07 4.0'
   type: PLATEAU
@@ -57,4 +57,4 @@ ext:
     - PLATEAU
     docnumber: '07'
     edition: '4.0'
-  filesize: 1
+  filesize: 12152125
