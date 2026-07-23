@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-# Migrated PLATEAU flavor (pubid-canonical index-v2) from the requested worktree,
+# Migrated PLATEAU flavor (pubid-canonical index-v2) now on relaton main,
 # with pubid on main (its Latin-parsing changes the flavor consumes).
-gem 'relaton', path: '/work/relaton/relaton/.claude/worktrees/feat/plateau-pubid-index-v2'
-gem 'pubid', path: '/work/metanorma/pubid'
+gem 'relaton', git: 'https://github.com/relaton/relaton.git', branch: 'main'
+gem 'pubid', git: 'https://github.com/metanorma/pubid.git', branch: 'main'
