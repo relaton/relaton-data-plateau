@@ -1,0 +1,69 @@
+---
+id: PLATEAUTechnicalReport111
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 地下埋設物データを活用した都市開発のDX 技術検証レポート
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0111_ver01.pdf
+docidentifier:
+- content: 'PLATEAU Technical Report #111'
+  type: PLATEAU
+  primary: true
+docnumber: 'Technical Report #111'
+date:
+- type: published
+  at: '2025-03-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '1.0'
+  content: '1.0'
+abstract:
+- language: ja
+  script: Jpan
+  content: 地下埋設物データを活用した都市開発のDXの技術資料 (2024年度)
+keyword:
+- vocab:
+    content: 2023年度
+- vocab:
+    content: BIMモデル
+- vocab:
+    content: CesiumJS
+- vocab:
+    content: OpenCV
+- vocab:
+    content: QGIS
+depiction:
+- scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2025/03/thumbnail_plateau_tech_doc_0111_ver01-scaled.jpg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.1.0
+  doctype:
+    content: technical-report
+  subdoctype: Use Case
+  flavor: plateau
+  structuredidentifier:
+  - type: Technical Report
+    agency:
+    - PLATEAU
+    klass: Use Case
+    docnumber: '111'
+  filesize: 7298330

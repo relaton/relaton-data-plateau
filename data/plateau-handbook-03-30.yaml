@@ -8,10 +8,10 @@ title:
   content: 3D都市モデル整備のためのBIM活用マニュアル
   type: main
 docidentifier:
-- content: 'PLATEAU Handbook #03 3.0'
+- content: 'PLATEAU Handbook #03 第3.0版'
   type: PLATEAU
   primary: true
-docnumber: 'Handbook #03 3.0'
+docnumber: 'Handbook #03 第3.0版'
 date:
 - type: published
   at: '2023-03-27'

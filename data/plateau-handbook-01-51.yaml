@@ -13,10 +13,10 @@ source:
 - type: html
   content: https://www.mlit.go.jp/plateaudocument/
 docidentifier:
-- content: 'PLATEAU Handbook #01 5.1'
+- content: 'PLATEAU Handbook #01 第5.1版'
   type: PLATEAU
   primary: true
-docnumber: 'Handbook #01 5.1'
+docnumber: 'Handbook #01 第5.1版'
 date:
 - type: published
   at: '2026-03-31'

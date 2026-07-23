@@ -1,0 +1,771 @@
+---
+- :id:
+    _type: pubid:plateau:handbook
+    number: 0
+    edition: '6.0'
+  :file: data/plateau-handbook-00-60.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 0
+    edition: '5.0'
+  :file: data/plateau-handbook-00-50.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 0
+    edition: '4.0'
+  :file: data/plateau-handbook-00-40.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 0
+    edition: '3.0'
+  :file: data/plateau-handbook-00-30.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 0
+    edition: '2.0'
+  :file: data/plateau-handbook-00-20.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 0
+    edition: '1.0'
+  :file: data/plateau-handbook-00-10.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 0
+  :file: data/plateau-technical-report-00.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 1
+    edition: '5.1'
+  :file: data/plateau-handbook-01-51.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 1
+    edition: '5.0'
+  :file: data/plateau-handbook-01-50.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 1
+    edition: '4.1'
+  :file: data/plateau-handbook-01-41.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 1
+    edition: '3.5'
+  :file: data/plateau-handbook-01-35.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 1
+    edition: '2.3'
+  :file: data/plateau-handbook-01-23.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 1
+    edition: '1.0'
+  :file: data/plateau-handbook-01-10.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 1
+  :file: data/plateau-technical-report-01.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 10
+    edition: '4.1'
+  :file: data/plateau-handbook-10-41.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 10
+    edition: '4.0'
+  :file: data/plateau-handbook-10-40.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 10
+    edition: '3.0'
+  :file: data/plateau-handbook-10-30.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 10
+    edition: '2.0'
+  :file: data/plateau-handbook-10-20.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 10
+    edition: '1.0'
+  :file: data/plateau-handbook-10-10.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 10
+    edition: '1.0'
+    annex: 1
+  :file: data/plateau-handbook-10-1-10.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 100
+  :file: data/plateau-technical-report-100.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 101
+  :file: data/plateau-technical-report-101.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 102
+  :file: data/plateau-technical-report-102.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 103
+  :file: data/plateau-technical-report-103.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 104
+  :file: data/plateau-technical-report-104.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 105
+  :file: data/plateau-technical-report-105.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 106
+  :file: data/plateau-technical-report-106.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 107
+  :file: data/plateau-technical-report-107.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 108
+  :file: data/plateau-technical-report-108.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 109
+  :file: data/plateau-technical-report-109.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 11
+    edition: '6.0'
+  :file: data/plateau-handbook-11-60.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 11
+    edition: '5.0'
+  :file: data/plateau-handbook-11-50.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 11
+    edition: '4.0'
+  :file: data/plateau-handbook-11-40.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 11
+    edition: '3.0'
+  :file: data/plateau-handbook-11-30.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 11
+    edition: '2.0'
+  :file: data/plateau-handbook-11-20.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 11
+    edition: '1.0'
+  :file: data/plateau-handbook-11-10.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 11
+  :file: data/plateau-technical-report-11.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 110
+  :file: data/plateau-technical-report-110.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 111
+  :file: data/plateau-technical-report-111.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 112
+  :file: data/plateau-technical-report-112.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 113
+  :file: data/plateau-technical-report-113.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 114
+  :file: data/plateau-technical-report-114.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 115
+  :file: data/plateau-technical-report-115.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 116
+  :file: data/plateau-technical-report-116.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 117
+  :file: data/plateau-technical-report-117.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 118
+  :file: data/plateau-technical-report-118.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 119
+  :file: data/plateau-technical-report-119.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 12
+    edition: '3.0'
+  :file: data/plateau-handbook-12-30.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 12
+    edition: '2.0'
+  :file: data/plateau-handbook-12-20.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 12
+    edition: '1.0'
+  :file: data/plateau-handbook-12-10.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 125
+  :file: data/plateau-technical-report-125.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 126
+  :file: data/plateau-technical-report-126.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 127
+  :file: data/plateau-technical-report-127.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 13
+    edition: '1.0'
+  :file: data/plateau-handbook-13-10.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 130
+  :file: data/plateau-technical-report-130.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 131
+  :file: data/plateau-technical-report-131.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 132
+  :file: data/plateau-technical-report-132.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 133
+  :file: data/plateau-technical-report-133.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 134
+  :file: data/plateau-technical-report-134.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 135
+  :file: data/plateau-technical-report-135.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 136
+  :file: data/plateau-technical-report-136.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 137
+  :file: data/plateau-technical-report-137.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 138
+  :file: data/plateau-technical-report-138.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 139
+  :file: data/plateau-technical-report-139.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 14
+    edition: '1.0'
+  :file: data/plateau-handbook-14-10.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 14
+  :file: data/plateau-technical-report-14.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 140
+  :file: data/plateau-technical-report-140.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 141
+  :file: data/plateau-technical-report-141.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 142
+  :file: data/plateau-technical-report-142.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 15
+  :file: data/plateau-technical-report-15.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 16
+  :file: data/plateau-technical-report-16.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 17
+  :file: data/plateau-technical-report-17.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 18
+  :file: data/plateau-technical-report-18.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 19
+  :file: data/plateau-technical-report-19.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 2
+    edition: '5.1'
+  :file: data/plateau-handbook-02-51.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 2
+    edition: '5.0'
+  :file: data/plateau-handbook-02-50.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 2
+    edition: '4.1'
+  :file: data/plateau-handbook-02-41.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 2
+    edition: '3.5'
+  :file: data/plateau-handbook-02-35.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 2
+    edition: '2.2'
+  :file: data/plateau-handbook-02-22.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 2
+    edition: '1.0'
+  :file: data/plateau-handbook-02-10.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 2
+  :file: data/plateau-technical-report-02.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 20
+  :file: data/plateau-technical-report-20.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 21
+  :file: data/plateau-technical-report-21.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 22
+  :file: data/plateau-technical-report-22.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 23
+  :file: data/plateau-technical-report-23.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 24
+  :file: data/plateau-technical-report-24.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 25
+  :file: data/plateau-technical-report-25.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 26
+  :file: data/plateau-technical-report-26.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 27
+  :file: data/plateau-technical-report-27.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 28
+  :file: data/plateau-technical-report-28.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 29
+  :file: data/plateau-technical-report-29.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 3
+    edition: '4.0'
+  :file: data/plateau-handbook-03-40.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 3
+    edition: '3.0'
+  :file: data/plateau-handbook-03-30.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 3
+    edition: '2.0'
+  :file: data/plateau-handbook-03-20.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 3
+    edition: '1.0'
+  :file: data/plateau-handbook-03-10.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 3
+    edition: '3.0'
+    annex: 1
+  :file: data/plateau-handbook-03-1-30.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 3
+    edition: '2.0'
+    annex: 1
+  :file: data/plateau-handbook-03-1-20.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 3
+    edition: '1.0'
+    annex: 1
+  :file: data/plateau-handbook-03-1-10.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 3
+  :file: data/plateau-technical-report-03.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 30
+  :file: data/plateau-technical-report-30.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 31
+  :file: data/plateau-technical-report-31.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 32
+  :file: data/plateau-technical-report-32.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 33
+  :file: data/plateau-technical-report-33.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 34
+  :file: data/plateau-technical-report-34.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 35
+  :file: data/plateau-technical-report-35.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 36
+  :file: data/plateau-technical-report-36.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 37
+  :file: data/plateau-technical-report-37.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 38
+  :file: data/plateau-technical-report-38.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 39
+  :file: data/plateau-technical-report-39.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 40
+  :file: data/plateau-technical-report-40.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 41
+  :file: data/plateau-technical-report-41.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 42
+  :file: data/plateau-technical-report-42.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 43
+  :file: data/plateau-technical-report-43.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 44
+  :file: data/plateau-technical-report-44.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 45
+  :file: data/plateau-technical-report-45.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 46
+    annex: 1
+  :file: data/plateau-technical-report-46-1.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 46
+    annex: 2
+  :file: data/plateau-technical-report-46-2.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 47
+  :file: data/plateau-technical-report-47.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 48
+  :file: data/plateau-technical-report-48.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 49
+  :file: data/plateau-technical-report-49.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 5
+    edition: '2.2'
+  :file: data/plateau-handbook-05-22.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 5
+    edition: '1.0'
+  :file: data/plateau-handbook-05-10.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 50
+  :file: data/plateau-technical-report-50.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 51
+  :file: data/plateau-technical-report-51.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 52
+  :file: data/plateau-technical-report-52.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 53
+  :file: data/plateau-technical-report-53.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 54
+  :file: data/plateau-technical-report-54.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 55
+  :file: data/plateau-technical-report-55.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 56
+  :file: data/plateau-technical-report-56.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 57
+  :file: data/plateau-technical-report-57.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 58
+  :file: data/plateau-technical-report-58.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 59
+  :file: data/plateau-technical-report-59.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 60
+  :file: data/plateau-technical-report-60.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 61
+  :file: data/plateau-technical-report-61.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 62
+  :file: data/plateau-technical-report-62.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 63
+  :file: data/plateau-technical-report-63.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 66
+  :file: data/plateau-technical-report-66.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 67
+  :file: data/plateau-technical-report-67.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 68
+  :file: data/plateau-technical-report-68.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 69
+  :file: data/plateau-technical-report-69.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 7
+    edition: '4.0'
+  :file: data/plateau-handbook-07-40.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 7
+    edition: '3.0'
+  :file: data/plateau-handbook-07-30.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 7
+    edition: '2.0'
+  :file: data/plateau-handbook-07-20.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 7
+    edition: '1.0'
+  :file: data/plateau-handbook-07-10.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 70
+  :file: data/plateau-technical-report-70.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 71
+  :file: data/plateau-technical-report-71.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 72
+  :file: data/plateau-technical-report-72.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 73
+  :file: data/plateau-technical-report-73.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 74
+  :file: data/plateau-technical-report-74.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 75
+  :file: data/plateau-technical-report-75.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 76
+  :file: data/plateau-technical-report-76.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 77
+  :file: data/plateau-technical-report-77.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 78
+  :file: data/plateau-technical-report-78.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 79
+  :file: data/plateau-technical-report-79.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 8
+    edition: '2.0'
+  :file: data/plateau-handbook-08-20.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 8
+    edition: '1.0'
+  :file: data/plateau-handbook-08-10.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 80
+  :file: data/plateau-technical-report-80.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 81
+  :file: data/plateau-technical-report-81.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 82
+  :file: data/plateau-technical-report-82.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 83
+  :file: data/plateau-technical-report-83.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 84
+  :file: data/plateau-technical-report-84.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 85
+  :file: data/plateau-technical-report-85.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 86
+  :file: data/plateau-technical-report-86.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 87
+  :file: data/plateau-technical-report-87.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 88
+  :file: data/plateau-technical-report-88.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 9
+    edition: '6.0'
+  :file: data/plateau-handbook-09-60.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 9
+    edition: '5.0'
+  :file: data/plateau-handbook-09-50.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 9
+    edition: '4.0'
+  :file: data/plateau-handbook-09-40.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 9
+    edition: '3.0'
+  :file: data/plateau-handbook-09-30.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 9
+    edition: '2.0'
+  :file: data/plateau-handbook-09-20.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 9
+    edition: '1.0'
+  :file: data/plateau-handbook-09-10.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 90
+  :file: data/plateau-technical-report-90.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 91
+  :file: data/plateau-technical-report-91.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 92
+  :file: data/plateau-technical-report-92.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 93
+  :file: data/plateau-technical-report-93.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 96
+  :file: data/plateau-technical-report-96.yaml
+- :id:
+    _type: pubid:plateau:technical-report
+    number: 97
+  :file: data/plateau-technical-report-97.yaml

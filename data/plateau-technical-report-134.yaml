@@ -1,0 +1,61 @@
+---
+id: PLATEAUTechnicalReport134
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 開発許可のDX v4.0　技術調査レポート
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0134_ver01.pdf
+docidentifier:
+- content: 'PLATEAU Technical Report #134'
+  type: PLATEAU
+  primary: true
+docnumber: 'Technical Report #134'
+date:
+- type: published
+  at: '2026-03-27'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '1.0'
+  content: '1.0'
+abstract:
+- language: ja
+  script: Jpan
+  content: 開発許可のDXv4.0技術調査レポートの技術資料(2025年度)
+keyword:
+- vocab:
+    content: 2025年度
+depiction:
+- scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2026/03/plateau_tech_doc_0134_ver01.jpg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.1.0
+  doctype:
+    content: technical-report
+  subdoctype: Use Case
+  flavor: plateau
+  structuredidentifier:
+  - type: Technical Report
+    agency:
+    - PLATEAU
+    klass: Use Case
+    docnumber: '134'
+  filesize: 6575166

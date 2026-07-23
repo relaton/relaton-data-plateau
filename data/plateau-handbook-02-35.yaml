@@ -11,10 +11,10 @@ source:
 - type: pdf
   content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0002_ver03.pdf
 docidentifier:
-- content: 'PLATEAU Handbook #02 3.5'
+- content: 'PLATEAU Handbook #02 第3.5版'
   type: PLATEAU
   primary: true
-docnumber: 'Handbook #02 3.5'
+docnumber: 'Handbook #02 第3.5版'
 date:
 - type: published
   at: '2024-03-22'

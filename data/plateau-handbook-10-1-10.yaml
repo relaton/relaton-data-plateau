@@ -11,10 +11,10 @@ source:
 - type: pdf
   content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_00101_ver01.pdf
 docidentifier:
-- content: 'PLATEAU Handbook #10-1 1.0'
+- content: 'PLATEAU Handbook #10-1 第1.0版'
   type: PLATEAU
   primary: true
-docnumber: 'Handbook #10-1 1.0'
+docnumber: 'Handbook #10-1 第1.0版'
 date:
 - type: published
   at: '2025-03-28'

@@ -1,0 +1,67 @@
+---
+id: PLATEAUTechnicalReport48
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 都市空間の統合デジタルツイン 技術検証レポート
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0048_ver01.pdf
+docidentifier:
+- content: 'PLATEAU Technical Report #48'
+  type: PLATEAU
+  primary: true
+docnumber: 'Technical Report #48'
+date:
+- type: published
+  at: '2023-03-30'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '1.0'
+  content: '1.0'
+abstract:
+- language: ja
+  script: Jpan
+  content: 都市空間の統合デジタルツイン構築の技術資料（2022年度）
+keyword:
+- vocab:
+    content: 2022年度
+- vocab:
+    content: Omniverse
+- vocab:
+    content: VPS
+- vocab:
+    content: 点群データ
+depiction:
+- scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2023/03/tech_doc_0048_ver01.jpg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.1.0
+  doctype:
+    content: technical-report
+  subdoctype: Use Case
+  flavor: plateau
+  structuredidentifier:
+  - type: Technical Report
+    agency:
+    - PLATEAU
+    klass: Use Case
+    docnumber: '48'
+  filesize: 8852549

@@ -1,0 +1,77 @@
+---
+id: PLATEAUTechnicalReport75
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 地下街データを活用したナビゲーションシステム 技術検証レポート
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0075_ver01.pdf
+docidentifier:
+- content: 'PLATEAU Technical Report #75'
+  type: PLATEAU
+  primary: true
+docnumber: 'Technical Report #75'
+date:
+- type: published
+  at: '2024-03-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '1.0'
+  content: '1.0'
+abstract:
+- language: ja
+  script: Jpan
+  content: 地下街データを活用したナビゲーションシステムの技術資料 (2023年度)
+keyword:
+- vocab:
+    content: 2023年度
+- vocab:
+    content: AR
+- vocab:
+    content: ArcGIS
+- vocab:
+    content: BIMモデル
+- vocab:
+    content: CesiumJS
+- vocab:
+    content: IoT
+- vocab:
+    content: PostGIS
+- vocab:
+    content: QGIS
+- vocab:
+    content: VR・メタバース
+depiction:
+- scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2024/03/plateau_tech_doc_0075_ver01.jpg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.1.0
+  doctype:
+    content: technical-report
+  subdoctype: Use Case
+  flavor: plateau
+  structuredidentifier:
+  - type: Technical Report
+    agency:
+    - PLATEAU
+    klass: Use Case
+    docnumber: '75'
+  filesize: 14338976

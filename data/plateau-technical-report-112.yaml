@@ -1,0 +1,67 @@
+---
+id: PLATEAUTechnicalReport112
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 公園管理のDX v2.0 技術検証レポート
+  type: main
+source:
+- type: pdf
+  content: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0112_ver01.pdf
+docidentifier:
+- content: 'PLATEAU Technical Report #112'
+  type: PLATEAU
+  primary: true
+docnumber: 'Technical Report #112'
+date:
+- type: published
+  at: '2025-03-27'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国土交通省
+    - language: en
+      script: Latn
+      content: Japanese Ministry of Land, Infrastructure, Transport and Tourism
+    abbreviation:
+      content: MLIT
+edition:
+  number: '1.0'
+  content: '1.0'
+abstract:
+- language: ja
+  script: Jpan
+  content: 公園管理のDX v2.0の技術資料 (2024年度)
+keyword:
+- vocab:
+    content: 2024年度
+- vocab:
+    content: AR
+- vocab:
+    content: PostGIS
+- vocab:
+    content: ダッシュボード
+depiction:
+- scope: cover
+  image:
+  - src: https://www.mlit.go.jp//plateau/uploads/2025/03/thumbnail_plateau_tech_doc_0112_ver01-scaled.jpg
+    mimetype: image/jpeg
+ext:
+  schema_version: v0.1.0
+  doctype:
+    content: technical-report
+  subdoctype: Use Case
+  flavor: plateau
+  structuredidentifier:
+  - type: Technical Report
+    agency:
+    - PLATEAU
+    klass: Use Case
+    docnumber: '112'
+  filesize: 14067658
