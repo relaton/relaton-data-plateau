@@ -6,12 +6,15 @@ require 'pubid'
 require 'zip'
 
 FileUtils.rm Dir.glob('index-*')
-FileUtils.rm_rf 'data'
 
-# The fetcher now writes the pubid-canonical index-v2.yaml (rows are
-# Pubid::Plateau::Identifier objects serialized as `_type: pubid:plateau:…`).
-Relaton::Plateau::DataFetcher.fetch 'plateau-handbooks'
-Relaton::Plateau::DataFetcher.fetch 'plateau-technical-reports'
+# Incremental crawl (relaton#328): both sources share one fetcher so the
+# whole tree is written before the single prune — byte-identical records
+# are skipped and stale files pruned behind the 90% guard.
+fetcher = Relaton::Plateau::DataFetcher.new('data', 'yaml')
+fetcher.prune = true
+fetcher.fetch 'plateau-handbooks'
+fetcher.fetch 'plateau-technical-reports'
+fetcher.prune_unwritten
 
 # Render a canonical pubid string back to the legacy plain string that
 # older/released relaton versions expect for index-v1.yaml. Assumes the current
