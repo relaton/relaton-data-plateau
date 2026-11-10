@@ -32,7 +32,7 @@ def legacy_latin(pid)
 end
 
 # Read the just-written canonical index and derive the legacy plain-string index.
-type = Relaton::Index::Type.new(:plateau, nil, 'index-v2.yaml', nil, ::Pubid::Plateau::Identifier)
+type = Relaton::Index::Type.new(:plateau, file: 'index-v2.yaml', pubid_class: ::Pubid::Plateau::Identifier)
 v1 = type.index.map { |r| { id: legacy_latin(r[:id]), file: r[:file] } }
 File.write 'index-v1.yaml', v1.to_yaml
 
