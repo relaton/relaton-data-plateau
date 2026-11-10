@@ -154,21 +154,6 @@
     edition: '4.0'
   :file: data/plateau-handbook-11-40.yaml
 - :id:
-    _type: pubid:plateau:handbook
-    number: 11
-    edition: '3.0'
-  :file: data/plateau-handbook-11-30.yaml
-- :id:
-    _type: pubid:plateau:handbook
-    number: 11
-    edition: '2.0'
-  :file: data/plateau-handbook-11-20.yaml
-- :id:
-    _type: pubid:plateau:handbook
-    number: 11
-    edition: '1.0'
-  :file: data/plateau-handbook-11-10.yaml
-- :id:
     _type: pubid:plateau:technical-report
     number: 11
   :file: data/plateau-technical-report-11.yaml
@@ -482,6 +467,21 @@
     number: 39
   :file: data/plateau-technical-report-39.yaml
 - :id:
+    _type: pubid:plateau:handbook
+    number: 4
+    edition: '3.0'
+  :file: data/plateau-handbook-04-30.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 4
+    edition: '2.0'
+  :file: data/plateau-handbook-04-20.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 4
+    edition: '1.0'
+  :file: data/plateau-handbook-04-10.yaml
+- :id:
     _type: pubid:plateau:technical-report
     number: 40
   :file: data/plateau-technical-report-40.yaml
@@ -577,6 +577,21 @@
     _type: pubid:plateau:technical-report
     number: 59
   :file: data/plateau-technical-report-59.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 6
+    edition: '3.0'
+  :file: data/plateau-handbook-06-30.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 6
+    edition: '2.0'
+  :file: data/plateau-handbook-06-20.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 6
+    edition: '1.0'
+  :file: data/plateau-handbook-06-10.yaml
 - :id:
     _type: pubid:plateau:technical-report
     number: 60

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "index": "index-v1",
+  "sha256": "af4c8077a976399b07587df226626944c8133425ca1c6a6a875c1e10c5687f67",
+  "bytes": 1342,
+  "count": 180,
+  "generated": "2026-11-10T05:25:40Z",
+  "source_revision": "310cae57590ff3562881a580c5505e80c3fd8f62",
+  "run_id": "42761983309",
+  "repository": "relaton/relaton-data-plateau"
+}
