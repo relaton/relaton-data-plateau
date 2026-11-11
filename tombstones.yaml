@@ -1,0 +1,13 @@
+---
+- id: PLATEAUHandbook1110
+  file: data/plateau-handbook-11-10.yaml
+  tombstoned_at: '2026-11-11T03:33:05Z'
+  run_id: '42953422447'
+- id: PLATEAUHandbook1120
+  file: data/plateau-handbook-11-20.yaml
+  tombstoned_at: '2026-11-11T03:33:05Z'
+  run_id: '42953422447'
+- id: PLATEAUHandbook1130
+  file: data/plateau-handbook-11-30.yaml
+  tombstoned_at: '2026-11-11T03:33:05Z'
+  run_id: '42953422447'
