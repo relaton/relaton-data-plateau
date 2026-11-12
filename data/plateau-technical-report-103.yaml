@@ -37,7 +37,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: 3D都市モデルを活用した都市構造評価ツールの開発の技術資料 (2024年度)
+  content: 3D都市モデルを活用した都市構造評価ツールの開発の技術資料
+    (2024年度)
 keyword:
 - vocab:
     content: 2024年度

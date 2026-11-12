@@ -5,7 +5,8 @@ type: standard
 title:
 - language: ja
   script: Jpan
-  content: 3D都市モデル、BIMモデル、空間IDを統合した都市開発支援ツールの開発 技術検証レポート
+  content: 3D都市モデル、BIMモデル、空間IDを統合した都市開発支援ツールの開発
+    技術検証レポート
   type: main
 source:
 - type: pdf
@@ -37,7 +38,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: 3D都市モデル、BIMモデル、空間IDを統合した都市開発支援ツールの開発の技術資料 (2023年度)
+  content: 3D都市モデル、BIMモデル、空間IDを統合した都市開発支援ツールの開発の技術資料
+    (2023年度)
 keyword:
 - vocab:
     content: 2023年度

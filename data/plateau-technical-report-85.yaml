@@ -5,7 +5,8 @@ type: standard
 title:
 - language: ja
   script: Jpan
-  content: デジタルツインを活用したXRコンテンツ開発プラットフォーム 技術検証レポート
+  content: デジタルツインを活用したXRコンテンツ開発プラットフォーム
+    技術検証レポート
   type: main
 source:
 - type: pdf
@@ -37,7 +38,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: デジタルツインを活用したXRコンテンツ開発プラットフォームの技術資料 (2023年度)
+  content: デジタルツインを活用したXRコンテンツ開発プラットフォームの技術資料
+    (2023年度)
 keyword:
 - vocab:
     content: 2023年度

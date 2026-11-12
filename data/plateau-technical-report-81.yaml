@@ -5,7 +5,8 @@ type: standard
 title:
 - language: ja
   script: Jpan
-  content: ストーリーテリング型GISを用いたエリアマネジメントの高度化 技術検証レポート
+  content: ストーリーテリング型GISを用いたエリアマネジメントの高度化
+    技術検証レポート
   type: main
 source:
 - type: pdf
@@ -37,7 +38,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: ストーリーテリング型GISを用いたエリアマネジメントの高度化の技術資料 (2023年度)
+  content: ストーリーテリング型GISを用いたエリアマネジメントの高度化の技術資料
+    (2023年度)
 keyword:
 - vocab:
     content: 2023年度

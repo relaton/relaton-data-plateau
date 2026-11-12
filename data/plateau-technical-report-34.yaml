@@ -5,7 +5,8 @@ type: standard
 title:
 - language: ja
   script: Jpan
-  content: ローカル5G電波シミュレーションを活かした基地局配置計画 技術検証レポート
+  content: ローカル5G電波シミュレーションを活かした基地局配置計画
+    技術検証レポート
   type: main
 source:
 - type: pdf

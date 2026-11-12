@@ -37,7 +37,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: モデル駆動型アーキテクチャによる3D都市モデル標準ドキュメントの管理システムの技術資料 (2024年度)
+  content: モデル駆動型アーキテクチャによる3D都市モデル標準ドキュメントの管理システムの技術資料
+    (2024年度)
 keyword:
 - vocab:
     content: 2024年度

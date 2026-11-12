@@ -1,11 +1,11 @@
 {
   "version": 1,
   "index": "index-v1",
-  "sha256": "af4c8077a976399b07587df226626944c8133425ca1c6a6a875c1e10c5687f67",
-  "bytes": 1342,
-  "count": 180,
-  "generated": "2026-11-10T05:25:40Z",
-  "source_revision": "310cae57590ff3562881a580c5505e80c3fd8f62",
-  "run_id": "42761983309",
+  "sha256": "7a611eddd1bc283f8689a13f2453493ccca40c24a146848ef08e91d532dd1a19",
+  "bytes": 1418,
+  "count": 181,
+  "generated": "2026-11-12T04:16:18Z",
+  "source_revision": "3b5cd676e0f69601c114bf93b6fc46865ea64a60",
+  "run_id": "43153585325",
   "repository": "relaton/relaton-data-plateau"
 }

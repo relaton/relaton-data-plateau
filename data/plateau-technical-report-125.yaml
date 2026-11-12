@@ -5,7 +5,8 @@ type: standard
 title:
 - language: ja
   script: Jpan
-  content: 豪雪地帯の建築物における除雪優先度算出システム及び被災現場支援ツールの開発 技術検証レポート
+  content: 豪雪地帯の建築物における除雪優先度算出システム及び被災現場支援ツールの開発
+    技術検証レポート
   type: main
 source:
 - type: pdf

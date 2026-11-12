@@ -37,7 +37,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: 地下埋設物データを活用した都市開発のDXの技術資料 (2023年度)
+  content: 地下埋設物データを活用した都市開発のDXの技術資料
+    (2023年度)
 keyword:
 - vocab:
     content: 2024年度

@@ -37,7 +37,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: 多方向カメラによる効率的なLOD3モデル整備手法の調査の技術資料 (2024年度)
+  content: 多方向カメラによる効率的なLOD3モデル整備手法の調査の技術資料
+    (2024年度)
 keyword:
 - vocab:
     content: 2024年度

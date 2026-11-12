@@ -37,7 +37,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: エリアマネジメント・ダッシュボードの構築v2.0の技術資料 (2023年度)
+  content: エリアマネジメント・ダッシュボードの構築v2.0の技術資料
+    (2023年度)
 keyword:
 - vocab:
     content: 2023年度

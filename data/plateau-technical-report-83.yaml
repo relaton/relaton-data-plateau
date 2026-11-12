@@ -37,7 +37,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: 下水熱利用促進のためのマッチングシステムの技術資料 (2023年度)
+  content: 下水熱利用促進のためのマッチングシステムの技術資料
+    (2023年度)
 keyword:
 - vocab:
     content: 2023年度

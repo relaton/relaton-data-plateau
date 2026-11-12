@@ -5,7 +5,8 @@ type: standard
 title:
 - language: ja
   script: Jpan
-  content: 3D都市モデルを活用した気候変動影響シミュレーション 技術検証レポート
+  content: 3D都市モデルを活用した気候変動影響シミュレーション
+    技術検証レポート
   type: main
 source:
 - type: pdf

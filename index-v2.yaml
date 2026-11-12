@@ -3,12 +3,20 @@
     _type: pubid:plateau:handbook
     number: 0
     edition: '6.0'
-  :file: data/plateau-handbook-00-60.yaml
+    volume: 本編＋付録
+  :file: data/plateau-handbook-00-60-with-appendix.yaml
 - :id:
     _type: pubid:plateau:handbook
     number: 0
     edition: '5.0'
-  :file: data/plateau-handbook-00-50.yaml
+    volume: 本編
+  :file: data/plateau-handbook-00-50-main.yaml
+- :id:
+    _type: pubid:plateau:handbook
+    number: 0
+    edition: '5.0'
+    volume: 本編＋付録
+  :file: data/plateau-handbook-00-50-with-appendix.yaml
 - :id:
     _type: pubid:plateau:handbook
     number: 0

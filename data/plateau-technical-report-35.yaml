@@ -5,7 +5,8 @@ type: standard
 title:
 - language: ja
   script: Jpan
-  content: 自動運転車両の自己位置推定におけるVPS（Visual Positioning System）活用Ver2 技術検証レポート
+  content: 自動運転車両の自己位置推定におけるVPS（Visual Positioning
+    System）活用Ver2 技術検証レポート
   type: main
 source:
 - type: pdf
@@ -37,7 +38,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: 自動運転車両の自己位置推定におけるVPS（Visual Positioning System）活用の技術資料（2022年度）
+  content: 自動運転車両の自己位置推定におけるVPS（Visual Positioning
+    System）活用の技術資料（2022年度）
 keyword:
 - vocab:
     content: 2022年度

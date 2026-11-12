@@ -1,8 +1,10 @@
 ---
-- :id: 'PLATEAU Handbook #00 6.0'
-  :file: data/plateau-handbook-00-60.yaml
-- :id: 'PLATEAU Handbook #00 5.0'
-  :file: data/plateau-handbook-00-50.yaml
+- :id: 'PLATEAU Handbook #00 6.0 本編＋付録'
+  :file: data/plateau-handbook-00-60-with-appendix.yaml
+- :id: 'PLATEAU Handbook #00 5.0 本編'
+  :file: data/plateau-handbook-00-50-main.yaml
+- :id: 'PLATEAU Handbook #00 5.0 本編＋付録'
+  :file: data/plateau-handbook-00-50-with-appendix.yaml
 - :id: 'PLATEAU Handbook #00 4.0'
   :file: data/plateau-handbook-00-40.yaml
 - :id: 'PLATEAU Handbook #00 3.0'

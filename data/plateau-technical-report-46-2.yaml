@@ -5,7 +5,8 @@ type: standard
 title:
 - language: ja
   script: Jpan
-  content: 3D都市モデルとBIMを活用したモビリティ自律運行システム 技術検証レポート（無人搬送車両編）
+  content: 3D都市モデルとBIMを活用したモビリティ自律運行システム
+    技術検証レポート（無人搬送車両編）
   type: main
 source:
 - type: pdf

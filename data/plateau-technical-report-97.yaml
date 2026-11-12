@@ -5,7 +5,8 @@ type: standard
 title:
 - language: ja
   script: Jpan
-  content: 3D都市モデルとBIMを活用したモビリティ自律運航システム v3.0 技術検証レポート
+  content: 3D都市モデルとBIMを活用したモビリティ自律運航システム
+    v3.0 技術検証レポート
   type: main
 source:
 - type: pdf
@@ -37,7 +38,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: 3D都市モデルとBIMを活用したモビリティ自律運航システム v3.0の技術資料 (2024年度)
+  content: 3D都市モデルとBIMを活用したモビリティ自律運航システム
+    v3.0の技術資料 (2024年度)
 keyword:
 - vocab:
     content: 2024年度

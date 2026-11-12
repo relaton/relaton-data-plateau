@@ -37,7 +37,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: 商業施設等の立地に関する交通シミュレータの開発の技術資料 (2024年度)
+  content: 商業施設等の立地に関する交通シミュレータの開発の技術資料
+    (2024年度)
 keyword:
 - vocab:
     content: 2024年度

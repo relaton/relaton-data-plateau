@@ -37,7 +37,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: 歴史・文化・営みを継承するメタバース体験の構築の技術資料 (2023年度)
+  content: 歴史・文化・営みを継承するメタバース体験の構築の技術資料
+    (2023年度)
 keyword:
 - vocab:
     content: 2023年度

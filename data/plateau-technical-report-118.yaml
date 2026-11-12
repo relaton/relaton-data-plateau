@@ -5,7 +5,8 @@ type: standard
 title:
 - language: ja
   script: Jpan
-  content: BIMデータを活用した3D都市モデル建築物作成の有用性調査 技術検証レポート
+  content: BIMデータを活用した3D都市モデル建築物作成の有用性調査
+    技術検証レポート
   type: main
 source:
 - type: pdf
@@ -37,7 +38,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: BIMデータを活用した3D都市モデル建築物作成の有用性調査の技術資料 (2024年度)
+  content: BIMデータを活用した3D都市モデル建築物作成の有用性調査の技術資料
+    (2024年度)
 keyword:
 - vocab:
     content: 2024年度

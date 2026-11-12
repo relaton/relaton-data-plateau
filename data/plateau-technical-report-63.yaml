@@ -37,7 +37,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: CityGML に最適化されたデータベース構築手法に関する技術資料 (2023年度)
+  content: CityGML に最適化されたデータベース構築手法に関する技術資料
+    (2023年度)
 keyword:
 - vocab:
     content: 2023年度

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: ja
   script: Jpan
-  content: 多方向カメラを用いた空中写真測量による3D都市モデル整備手法に関する調査 技術検証レポート
+  content: 多方向カメラを用いた空中写真測量による3D都市モデル整備手法に関する調査
+    技術検証レポート
   type: main
 source:
 - type: pdf
@@ -37,7 +38,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: 多方向カメラを用いた空中写真測量による3D都市モデル整備手法に関する技術資料 (2023年度)
+  content: 多方向カメラを用いた空中写真測量による3D都市モデル整備手法に関する技術資料
+    (2023年度)
 keyword:
 - vocab:
     content: 2023年度

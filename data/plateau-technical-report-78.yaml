@@ -37,7 +37,8 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: XR技術を活用した住民参加型まちづくりv2.0の技術資料 (2023年度)
+  content: XR技術を活用した住民参加型まちづくりv2.0の技術資料
+    (2023年度)
 keyword:
 - vocab:
     content: 2023年度
