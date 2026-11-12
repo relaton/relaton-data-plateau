@@ -25,7 +25,10 @@ fetcher.prune_unwritten
 def legacy_latin(pid)
   s = pid.to_s
   case s
-  when /\APLATEAU Handbook (#[\d-]+) 第([\d.]+)版\z/ then "PLATEAU Handbook #{$1} #{$2}"
+  # Optional volume label (本編 = main, 本編＋付録 = main + appendix) is kept:
+  # MLIT lists edition 5.0 as both, so dropping it would merge two v1 ids.
+  when /\APLATEAU Handbook (#[\d-]+) 第([\d.]+)版( 本編(?:＋付録)?)?\z/
+    "PLATEAU Handbook #{$1} #{$2}#{$3}"
   when /\APLATEAU Technical Report (#[\d-]+)\z/      then "PLATEAU Technical Report #{$1.tr('-', '_')} 1.0"
   else raise "cannot map canonical id to legacy index-v1 form: #{s.inspect}"
   end
