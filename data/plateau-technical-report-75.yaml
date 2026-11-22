@@ -37,8 +37,7 @@ edition:
 abstract:
 - language: ja
   script: Jpan
-  content: 地下街データを活用したナビゲーションシステムの技術資料
-    (2023年度)
+  content: 地下街データを活用したナビゲーションシステムの技術資料 (2023年度)
 keyword:
 - vocab:
     content: 2023年度
