@@ -40,11 +40,11 @@ abstract:
   content: エリアマネジメント活動可視化システム開発実証の技術資料（2021年度）
 keyword:
 - vocab:
-    content: 2021年度
+  - content: 2021年度
 - vocab:
-    content: Three.js
+  - content: Three.js
 - vocab:
-    content: ダッシュボード
+  - content: ダッシュボード
 depiction:
 - scope: cover
   image:

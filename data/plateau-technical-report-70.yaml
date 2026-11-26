@@ -40,19 +40,19 @@ abstract:
   content: 3D都市モデル、BIMモデル、空間IDを統合した都市開発支援ツールの開発の技術資料 (2023年度)
 keyword:
 - vocab:
-    content: 2023年度
+  - content: 2023年度
 - vocab:
-    content: BIMモデル
+  - content: BIMモデル
 - vocab:
-    content: IoT
+  - content: IoT
 - vocab:
-    content: PLATEAU SDK
+  - content: PLATEAU SDK
 - vocab:
-    content: Unreal Engine
+  - content: Unreal Engine
 - vocab:
-    content: 空間ID
+  - content: 空間ID
 - vocab:
-    content: 人流データ
+  - content: 人流データ
 depiction:
 - scope: cover
   image:

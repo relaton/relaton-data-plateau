@@ -40,11 +40,11 @@ abstract:
   content: 地下埋設物データを活用した都市開発のDXの技術資料 (2023年度)
 keyword:
 - vocab:
-    content: 2024年度
+  - content: 2024年度
 - vocab:
-    content: CesiumJS
+  - content: CesiumJS
 - vocab:
-    content: 点群データ
+  - content: 点群データ
 depiction:
 - scope: cover
   image:

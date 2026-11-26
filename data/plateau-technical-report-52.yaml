@@ -40,13 +40,13 @@ abstract:
   content: 景観計画や開発計画をVR空間で容易に再現可能なツール開発の技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: PLATEAU SDK
+  - content: PLATEAU SDK
 - vocab:
-    content: Unity
+  - content: Unity
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 depiction:
 - scope: cover
   image:

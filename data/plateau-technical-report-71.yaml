@@ -40,17 +40,17 @@ abstract:
   content: 人工衛星観測データを用いた浸水被害把握の技術資料 (2023年度)
 keyword:
 - vocab:
-    content: 2023年度
+  - content: 2023年度
 - vocab:
-    content: AI
+  - content: AI
 - vocab:
-    content: OpenCV
+  - content: OpenCV
 - vocab:
-    content: PyTorch
+  - content: PyTorch
 - vocab:
-    content: 衛星画像
+  - content: 衛星画像
 - vocab:
-    content: 不動産ID
+  - content: 不動産ID
 depiction:
 - scope: cover
   image:

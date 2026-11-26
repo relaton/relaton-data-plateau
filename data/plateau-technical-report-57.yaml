@@ -40,7 +40,7 @@ abstract:
   content: CityGML3.0の技術仕様に関する調査資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 depiction:
 - scope: cover
   image:

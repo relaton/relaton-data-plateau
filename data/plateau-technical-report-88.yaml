@@ -40,19 +40,19 @@ abstract:
   content: 3D都市モデルに最適化したVPSの開発v3.0の技術資料 (2023年度)
 keyword:
 - vocab:
-    content: 2023年度
+  - content: 2023年度
 - vocab:
-    content: AR
+  - content: AR
 - vocab:
-    content: PLATEAU SDK
+  - content: PLATEAU SDK
 - vocab:
-    content: ROS
+  - content: ROS
 - vocab:
-    content: Unity
+  - content: Unity
 - vocab:
-    content: VPS
+  - content: VPS
 - vocab:
-    content: 自律運航
+  - content: 自律運航
 depiction:
 - scope: cover
   image:

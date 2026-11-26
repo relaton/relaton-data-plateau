@@ -40,11 +40,11 @@ abstract:
   content: 太陽光発電のポテンシャル推計及び反射シミュレーション v3.0の技術資料 (2024年度)
 keyword:
 - vocab:
-    content: 2024年度
+  - content: 2024年度
 - vocab:
-    content: QGIS
+  - content: QGIS
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 depiction:
 - scope: cover
   image:

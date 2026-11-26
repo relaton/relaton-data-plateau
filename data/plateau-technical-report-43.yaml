@@ -40,11 +40,11 @@ abstract:
   content: 地域エネルギーマネジメント支援システム開発の技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 - vocab:
-    content: 人流データ
+  - content: 人流データ
 depiction:
 - scope: cover
   image:

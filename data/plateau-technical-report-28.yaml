@@ -40,9 +40,9 @@ abstract:
   content: 壁面太陽光発電のポテンシャル推計の技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 depiction:
 - scope: cover
   image:

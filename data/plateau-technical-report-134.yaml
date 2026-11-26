@@ -40,7 +40,7 @@ abstract:
   content: 開発許可のDXv4.0技術調査レポートの技術資料(2025年度)
 keyword:
 - vocab:
-    content: 2025年度
+  - content: 2025年度
 depiction:
 - scope: cover
   image:

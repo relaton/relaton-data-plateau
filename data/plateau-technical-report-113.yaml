@@ -40,13 +40,13 @@ abstract:
   content: 景観まちづくりDX v2.0の技術資料 (2024年度)
 keyword:
 - vocab:
-    content: 2024年度
+  - content: 2024年度
 - vocab:
-    content: PLATEAU SDK
+  - content: PLATEAU SDK
 - vocab:
-    content: Unity
+  - content: Unity
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 depiction:
 - scope: cover
   image:

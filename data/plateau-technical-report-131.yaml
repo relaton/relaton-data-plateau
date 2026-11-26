@@ -40,19 +40,19 @@ abstract:
   content: 大規模イベントの輸送計画策定に向けた人流シミュレータの開発の技術資料(2025年度)
 keyword:
 - vocab:
-    content: 2025年度
+  - content: 2025年度
 - vocab:
-    content: Babylon.js
+  - content: Babylon.js
 - vocab:
-    content: VR・メタバース
+  - content: VR・メタバース
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 - vocab:
-    content: 交通流データ
+  - content: 交通流データ
 - vocab:
-    content: 人流データ
+  - content: 人流データ
 - vocab:
-    content: 都市計画・まちづくり
+  - content: 都市計画・まちづくり
 depiction:
 - scope: cover
   image:

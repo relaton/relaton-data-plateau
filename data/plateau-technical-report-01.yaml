@@ -40,11 +40,11 @@ abstract:
   content: 太陽光パネル設置シミュレータ開発実証の技術資料（2021年度）
 keyword:
 - vocab:
-    content: 2021年度
+  - content: 2021年度
 - vocab:
-    content: ArcGIS
+  - content: ArcGIS
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 depiction:
 - scope: cover
   image:

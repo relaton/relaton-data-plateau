@@ -40,7 +40,7 @@ abstract:
   content: レーダー探査等を活用した地下埋設物モデルの整備実証の技術資料(2025年度)
 keyword:
 - vocab:
-    content: 2025年度
+  - content: 2025年度
 depiction:
 - scope: cover
   image:

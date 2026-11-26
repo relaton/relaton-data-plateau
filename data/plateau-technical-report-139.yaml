@@ -40,7 +40,7 @@ abstract:
   content: 3D都市モデルへのテクスチャ自動付与技術の開発の技術資料(2025年度)
 keyword:
 - vocab:
-    content: 2025年度
+  - content: 2025年度
 depiction:
 - scope: cover
   image:

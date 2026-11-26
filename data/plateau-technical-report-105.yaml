@@ -40,23 +40,23 @@ abstract:
   content: XR技術を活用した市民参加型まちづくり v3.0の技術資料 (2024年度)
 keyword:
 - vocab:
-    content: 2024年度
+  - content: 2024年度
 - vocab:
-    content: AR
+  - content: AR
 - vocab:
-    content: ARCore
+  - content: ARCore
 - vocab:
-    content: CesiumJS
+  - content: CesiumJS
 - vocab:
-    content: PLATEAU SDK
+  - content: PLATEAU SDK
 - vocab:
-    content: QGIS
+  - content: QGIS
 - vocab:
-    content: React
+  - content: React
 - vocab:
-    content: Unity
+  - content: Unity
 - vocab:
-    content: VPS
+  - content: VPS
 depiction:
 - scope: cover
   image:

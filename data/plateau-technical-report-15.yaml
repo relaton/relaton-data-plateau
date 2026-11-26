@@ -40,9 +40,9 @@ abstract:
   content: 災害廃棄物発生量シミュレーションの技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: QGIS
+  - content: QGIS
 depiction:
 - scope: cover
   image:

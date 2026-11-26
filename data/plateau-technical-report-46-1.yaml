@@ -40,15 +40,15 @@ abstract:
   content: 3D都市モデルとBIMを活用したモビリティ自律運行システム開発の技術資料（ドローン編）（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: BIMモデル
+  - content: BIMモデル
 - vocab:
-    content: SLAM
+  - content: SLAM
 - vocab:
-    content: ドローン
+  - content: ドローン
 - vocab:
-    content: 自律運航
+  - content: 自律運航
 depiction:
 - scope: cover
   image:

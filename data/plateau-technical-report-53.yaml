@@ -40,11 +40,11 @@ abstract:
   content: AIを用いた3D都市モデルの自動更新手法開発の技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: AI
+  - content: AI
 - vocab:
-    content: 点群データ
+  - content: 点群データ
 depiction:
 - scope: cover
   image:

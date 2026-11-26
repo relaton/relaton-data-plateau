@@ -40,15 +40,15 @@ abstract:
   content: 高度な浸水シミュレーションの技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: ArcGIS
+  - content: ArcGIS
 - vocab:
-    content: CesiumJS
+  - content: CesiumJS
 - vocab:
-    content: TerriaJS
+  - content: TerriaJS
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 depiction:
 - scope: cover
   image:

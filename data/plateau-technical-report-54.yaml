@@ -40,7 +40,7 @@ abstract:
   content: 短周期かつ効率的な3D都市モデルの更新手法の技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2021年度
+  - content: 2021年度
 depiction:
 - scope: cover
   image:

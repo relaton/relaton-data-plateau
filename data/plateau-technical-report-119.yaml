@@ -40,7 +40,7 @@ abstract:
   content: デジタルツインの実現に向けたクラウドソーシング型3D都市モデル作成システムの技術資料 (2024年度)
 keyword:
 - vocab:
-    content: 2024年度
+  - content: 2024年度
 depiction:
 - scope: cover
   image:

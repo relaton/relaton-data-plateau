@@ -40,17 +40,17 @@ abstract:
   content: 熱流体解析に関する大規模シミュレーションv3.0の技術資料(2025年度)
 keyword:
 - vocab:
-    content: 2025年度
+  - content: 2025年度
 - vocab:
-    content: AR
+  - content: AR
 - vocab:
-    content: CesiumJS
+  - content: CesiumJS
 - vocab:
-    content: CFD
+  - content: CFD
 - vocab:
-    content: OpenFOAM
+  - content: OpenFOAM
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 depiction:
 - scope: cover
   image:

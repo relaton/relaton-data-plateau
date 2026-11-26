@@ -40,15 +40,15 @@ abstract:
   content: ドローンリアルタイム・ナビゲーションシステム開発の技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: CesiumJS
+  - content: CesiumJS
 - vocab:
-    content: SLAM
+  - content: SLAM
 - vocab:
-    content: ドローン
+  - content: ドローン
 - vocab:
-    content: 自律運航
+  - content: 自律運航
 depiction:
 - scope: cover
   image:

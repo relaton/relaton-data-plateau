@@ -40,9 +40,9 @@ abstract:
   content: 開発行為の適地診断・申請システム開発の技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: CesiumJS
+  - content: CesiumJS
 depiction:
 - scope: cover
   image:

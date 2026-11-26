@@ -40,9 +40,9 @@ abstract:
   content: ゲーミフィケーションによる参加型まちづくりv2.0の技術資料 (2023年度)
 keyword:
 - vocab:
-    content: 2023年度
+  - content: 2023年度
 - vocab:
-    content: ゲーミフィケーション
+  - content: ゲーミフィケーション
 depiction:
 - scope: cover
   image:

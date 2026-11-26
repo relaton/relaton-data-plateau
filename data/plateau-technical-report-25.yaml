@@ -40,15 +40,15 @@ abstract:
   content: XR技術を用いた体感型アーバンプランニングツール開発の技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: AR
+  - content: AR
 - vocab:
-    content: AR.js
+  - content: AR.js
 - vocab:
-    content: Three.js
+  - content: Three.js
 - vocab:
-    content: VR・メタバース
+  - content: VR・メタバース
 depiction:
 - scope: cover
   image:

@@ -40,21 +40,21 @@ abstract:
   content: XR技術を活用した住民参加型まちづくりv2.0の技術資料 (2023年度)
 keyword:
 - vocab:
-    content: 2023年度
+  - content: 2023年度
 - vocab:
-    content: AR
+  - content: AR
 - vocab:
-    content: PLATEAU SDK
+  - content: PLATEAU SDK
 - vocab:
-    content: QGIS
+  - content: QGIS
 - vocab:
-    content: React
+  - content: React
 - vocab:
-    content: Unity
+  - content: Unity
 - vocab:
-    content: VR・メタバース
+  - content: VR・メタバース
 - vocab:
-    content: ゲーミフィケーション
+  - content: ゲーミフィケーション
 depiction:
 - scope: cover
   image:

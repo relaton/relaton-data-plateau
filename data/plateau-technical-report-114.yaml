@@ -40,7 +40,7 @@ abstract:
   content: モデル駆動型アーキテクチャによる3D都市モデル標準ドキュメントの管理システムの技術資料 (2024年度)
 keyword:
 - vocab:
-    content: 2024年度
+  - content: 2024年度
 depiction:
 - scope: cover
   image:

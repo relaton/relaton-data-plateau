@@ -40,9 +40,9 @@ abstract:
   content: カーボンニュートラル施策推進支援システム開発の技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 depiction:
 - scope: cover
   image:

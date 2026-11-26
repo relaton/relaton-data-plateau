@@ -40,13 +40,13 @@ abstract:
   content: 精緻な土砂災害シミュレーションの技術資料 (2023年度)
 keyword:
 - vocab:
-    content: 2023年度
+  - content: 2023年度
 - vocab:
-    content: CFD
+  - content: CFD
 - vocab:
-    content: QGIS
+  - content: QGIS
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 depiction:
 - scope: cover
   image:

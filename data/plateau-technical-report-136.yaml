@@ -40,33 +40,33 @@ abstract:
   content: 衛星データによる都市デジタルツインの構築調査の技術資料(2025年度)
 keyword:
 - vocab:
-    content: 2025年度
+  - content: 2025年度
 - vocab:
-    content: 3Dデータ
+  - content: 3Dデータ
 - vocab:
-    content: AI
+  - content: AI
 - vocab:
-    content: CityGML
+  - content: CityGML
 - vocab:
-    content: GeoTIFF
+  - content: GeoTIFF
 - vocab:
-    content: PyTorch
+  - content: PyTorch
 - vocab:
-    content: Unreal Engine
+  - content: Unreal Engine
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 - vocab:
-    content: デジタルツイン
+  - content: デジタルツイン
 - vocab:
-    content: 衛星画像
+  - content: 衛星画像
 - vocab:
-    content: 可視化
+  - content: 可視化
 - vocab:
-    content: 空間ID
+  - content: 空間ID
 - vocab:
-    content: 国際展開
+  - content: 国際展開
 - vocab:
-    content: 都市計画・まちづくり
+  - content: 都市計画・まちづくり
 depiction:
 - scope: cover
   image:

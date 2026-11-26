@@ -40,15 +40,15 @@ abstract:
   content: 歩行者移動・回遊行動シミュレーションの技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: QGIS
+  - content: QGIS
 - vocab:
-    content: Unity
+  - content: Unity
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 - vocab:
-    content: 人流データ
+  - content: 人流データ
 depiction:
 - scope: cover
   image:

@@ -40,17 +40,17 @@ abstract:
   content: 防災エリアマネジメントDX v2.0の技術資料 (2024年度)
 keyword:
 - vocab:
-    content: 2024年度
+  - content: 2024年度
 - vocab:
-    content: BIMモデル
+  - content: BIMモデル
 - vocab:
-    content: CesiumForUnreal
+  - content: CesiumForUnreal
 - vocab:
-    content: Unreal Engine
+  - content: Unreal Engine
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 - vocab:
-    content: 人流データ
+  - content: 人流データ
 depiction:
 - scope: cover
   image:

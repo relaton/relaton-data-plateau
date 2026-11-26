@@ -40,13 +40,13 @@ abstract:
   content: 容積率可視化シミュレータ開発の技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: Babylon.js
+  - content: Babylon.js
 - vocab:
-    content: CesiumJS
+  - content: CesiumJS
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 depiction:
 - scope: cover
   image:

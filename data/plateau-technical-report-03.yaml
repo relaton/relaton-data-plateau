@@ -40,7 +40,7 @@ abstract:
   content: 3D都市モデルLOD3のデータ作成実証の技術資料（2021年度）
 keyword:
 - vocab:
-    content: 2021年度
+  - content: 2021年度
 depiction:
 - scope: cover
   image:

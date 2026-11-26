@@ -40,15 +40,15 @@ abstract:
   content: 3D都市モデルの更新優先度マップ開発の技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: AI
+  - content: AI
 - vocab:
-    content: OpenCV
+  - content: OpenCV
 - vocab:
-    content: PyTorch
+  - content: PyTorch
 - vocab:
-    content: 衛星画像
+  - content: 衛星画像
 depiction:
 - scope: cover
   image:

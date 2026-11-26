@@ -40,13 +40,13 @@ abstract:
   content: 汎用的な人流シミュレーションシステムの技術資料 (2024年度)
 keyword:
 - vocab:
-    content: 2024年度
+  - content: 2024年度
 - vocab:
-    content: VR・メタバース
+  - content: VR・メタバース
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 - vocab:
-    content: 人流データ
+  - content: 人流データ
 depiction:
 - scope: cover
   image:

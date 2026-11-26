@@ -40,15 +40,15 @@ abstract:
   content: 市民協働による樹木管理DXの技術資料 (2023年度)
 keyword:
 - vocab:
-    content: 2023年度
+  - content: 2023年度
 - vocab:
-    content: AI
+  - content: AI
 - vocab:
-    content: CesiumJS
+  - content: CesiumJS
 - vocab:
-    content: ゲーミフィケーション
+  - content: ゲーミフィケーション
 - vocab:
-    content: 点群データ
+  - content: 点群データ
 depiction:
 - scope: cover
   image:

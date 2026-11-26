@@ -40,11 +40,11 @@ abstract:
   content: 高精度観光動態分析システムの技術資料 (2024年度)
 keyword:
 - vocab:
-    content: 2024年度
+  - content: 2024年度
 - vocab:
-    content: ArcGIS
+  - content: ArcGIS
 - vocab:
-    content: 人流データ
+  - content: 人流データ
 depiction:
 - scope: cover
   image:

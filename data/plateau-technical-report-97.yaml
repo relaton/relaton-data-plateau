@@ -40,21 +40,21 @@ abstract:
   content: 3D都市モデルとBIMを活用したモビリティ自律運航システム v3.0の技術資料 (2024年度)
 keyword:
 - vocab:
-    content: 2024年度
+  - content: 2024年度
 - vocab:
-    content: BIMモデル
+  - content: BIMモデル
 - vocab:
-    content: PLATEAU SDK
+  - content: PLATEAU SDK
 - vocab:
-    content: ROS
+  - content: ROS
 - vocab:
-    content: Unity
+  - content: Unity
 - vocab:
-    content: ドローン
+  - content: ドローン
 - vocab:
-    content: 自律運航
+  - content: 自律運航
 - vocab:
-    content: 点群データ
+  - content: 点群データ
 depiction:
 - scope: cover
   image:

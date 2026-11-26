@@ -40,15 +40,15 @@ abstract:
   content: 市民参加型XRコンテンツ開発プラットフォームの構築の技術資料 (2024年度)
 keyword:
 - vocab:
-    content: 2024年度
+  - content: 2024年度
 - vocab:
-    content: AR
+  - content: AR
 - vocab:
-    content: ARCore
+  - content: ARCore
 - vocab:
-    content: Unity
+  - content: Unity
 - vocab:
-    content: VPS
+  - content: VPS
 depiction:
 - scope: cover
   image:

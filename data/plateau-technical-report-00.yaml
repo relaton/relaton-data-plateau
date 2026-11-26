@@ -40,13 +40,13 @@ abstract:
   content: 自動運転車両の自己位置推定システム開発実証の技術資料（2021年度）
 keyword:
 - vocab:
-    content: 2021年度
+  - content: 2021年度
 - vocab:
-    content: Unity
+  - content: Unity
 - vocab:
-    content: VPS
+  - content: VPS
 - vocab:
-    content: 自律運航
+  - content: 自律運航
 depiction:
 - scope: cover
   image:

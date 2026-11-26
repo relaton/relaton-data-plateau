@@ -40,9 +40,9 @@ abstract:
   content: AI等を活用したLOD2自動生成ツールの開発及びOSS化の技術資料
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: AI
+  - content: AI
 depiction:
 - scope: cover
   image:

@@ -40,17 +40,17 @@ abstract:
   content: エリアマネジメント・ダッシュボードの構築v2.0の技術資料 (2023年度)
 keyword:
 - vocab:
-    content: 2023年度
+  - content: 2023年度
 - vocab:
-    content: CesiumJS
+  - content: CesiumJS
 - vocab:
-    content: PostGIS
+  - content: PostGIS
 - vocab:
-    content: React
+  - content: React
 - vocab:
-    content: TerriaJS
+  - content: TerriaJS
 - vocab:
-    content: ダッシュボード
+  - content: ダッシュボード
 depiction:
 - scope: cover
   image:

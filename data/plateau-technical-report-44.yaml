@@ -40,17 +40,17 @@ abstract:
   content: 都市AR空間とメタバースの連携プラットフォーム開発の技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: AR
+  - content: AR
 - vocab:
-    content: ARCore
+  - content: ARCore
 - vocab:
-    content: Unity
+  - content: Unity
 - vocab:
-    content: VPS
+  - content: VPS
 - vocab:
-    content: VR・メタバース
+  - content: VR・メタバース
 depiction:
 - scope: cover
   image:

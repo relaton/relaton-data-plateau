@@ -40,15 +40,15 @@ abstract:
   content: 商業施設等の立地に関する交通シミュレータの開発の技術資料 (2024年度)
 keyword:
 - vocab:
-    content: 2024年度
+  - content: 2024年度
 - vocab:
-    content: PLATEAU SDK
+  - content: PLATEAU SDK
 - vocab:
-    content: Unity
+  - content: Unity
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 - vocab:
-    content: 交通流データ
+  - content: 交通流データ
 depiction:
 - scope: cover
   image:

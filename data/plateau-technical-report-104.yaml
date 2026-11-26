@@ -40,15 +40,15 @@ abstract:
   content: タンジブルインターフェースを活用した住民参加型まちづくり等 v2.0の技術資料 (2024年度)
 keyword:
 - vocab:
-    content: 2024年度
+  - content: 2024年度
 - vocab:
-    content: OpenCV
+  - content: OpenCV
 - vocab:
-    content: PLATEAU SDK
+  - content: PLATEAU SDK
 - vocab:
-    content: Three.js
+  - content: Three.js
 - vocab:
-    content: Unity
+  - content: Unity
 depiction:
 - scope: cover
   image:

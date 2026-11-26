@@ -40,15 +40,15 @@ abstract:
   content: 3D都市モデルとBIMを活用したモビリティ自律運航システム（車両）v2.0の技術資料 (2023年度)
 keyword:
 - vocab:
-    content: 2023年度
+  - content: 2023年度
 - vocab:
-    content: PLATEAU SDK
+  - content: PLATEAU SDK
 - vocab:
-    content: SLAM
+  - content: SLAM
 - vocab:
-    content: 自律運航
+  - content: 自律運航
 - vocab:
-    content: 点群データ
+  - content: 点群データ
 depiction:
 - scope: cover
   image:

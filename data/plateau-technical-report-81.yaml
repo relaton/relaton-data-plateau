@@ -40,13 +40,13 @@ abstract:
   content: ストーリーテリング型GISを用いたエリアマネジメントの高度化の技術資料 (2023年度)
 keyword:
 - vocab:
-    content: 2023年度
+  - content: 2023年度
 - vocab:
-    content: BIMモデル
+  - content: BIMモデル
 - vocab:
-    content: CesiumJS
+  - content: CesiumJS
 - vocab:
-    content: React
+  - content: React
 depiction:
 - scope: cover
   image:

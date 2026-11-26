@@ -40,13 +40,13 @@ abstract:
   content: 都市構造シミュレーション開発の技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: ArcGIS
+  - content: ArcGIS
 - vocab:
-    content: QGIS
+  - content: QGIS
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 depiction:
 - scope: cover
   image:

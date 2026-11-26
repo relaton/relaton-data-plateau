@@ -40,15 +40,15 @@ abstract:
   content: 地下埋設物データを活用した都市開発のDXの技術資料 (2024年度)
 keyword:
 - vocab:
-    content: 2023年度
+  - content: 2023年度
 - vocab:
-    content: BIMモデル
+  - content: BIMモデル
 - vocab:
-    content: CesiumJS
+  - content: CesiumJS
 - vocab:
-    content: OpenCV
+  - content: OpenCV
 - vocab:
-    content: QGIS
+  - content: QGIS
 depiction:
 - scope: cover
   image:

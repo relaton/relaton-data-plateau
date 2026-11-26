@@ -40,15 +40,15 @@ abstract:
   content: 3D都市モデルを活用した高精度デジタルツイン構築の技術資料 (2023年度)
 keyword:
 - vocab:
-    content: 2023年度
+  - content: 2023年度
 - vocab:
-    content: AI
+  - content: AI
 - vocab:
-    content: PLATEAU SDK
+  - content: PLATEAU SDK
 - vocab:
-    content: PostGIS
+  - content: PostGIS
 - vocab:
-    content: Unreal Engine
+  - content: Unreal Engine
 depiction:
 - scope: cover
   image:

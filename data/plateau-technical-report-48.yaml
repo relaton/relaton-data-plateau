@@ -40,13 +40,13 @@ abstract:
   content: 都市空間の統合デジタルツイン構築の技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: Omniverse
+  - content: Omniverse
 - vocab:
-    content: VPS
+  - content: VPS
 - vocab:
-    content: 点群データ
+  - content: 点群データ
 depiction:
 - scope: cover
   image:

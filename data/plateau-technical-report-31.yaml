@@ -40,11 +40,11 @@ abstract:
   content: 気候変動影響シミュレーションの技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: CFD
+  - content: CFD
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 depiction:
 - scope: cover
   image:

@@ -40,23 +40,23 @@ abstract:
   content: 地下街データを活用したナビゲーションシステムの技術資料 (2023年度)
 keyword:
 - vocab:
-    content: 2023年度
+  - content: 2023年度
 - vocab:
-    content: AR
+  - content: AR
 - vocab:
-    content: ArcGIS
+  - content: ArcGIS
 - vocab:
-    content: BIMモデル
+  - content: BIMモデル
 - vocab:
-    content: CesiumJS
+  - content: CesiumJS
 - vocab:
-    content: IoT
+  - content: IoT
 - vocab:
-    content: PostGIS
+  - content: PostGIS
 - vocab:
-    content: QGIS
+  - content: QGIS
 - vocab:
-    content: VR・メタバース
+  - content: VR・メタバース
 depiction:
 - scope: cover
   image:

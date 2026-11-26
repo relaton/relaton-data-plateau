@@ -40,15 +40,15 @@ abstract:
   content: ドローンを用いたインフラ管理システムの技術資料 (2023年度)
 keyword:
 - vocab:
-    content: 2023年度
+  - content: 2023年度
 - vocab:
-    content: CesiumJS
+  - content: CesiumJS
 - vocab:
-    content: React
+  - content: React
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 - vocab:
-    content: ドローン
+  - content: ドローン
 depiction:
 - scope: cover
   image:

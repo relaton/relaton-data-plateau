@@ -40,11 +40,11 @@ abstract:
   content: 火災延焼シミュレーションシステムの開発の技術資料(2025年度)
 keyword:
 - vocab:
-    content: 2025年度
+  - content: 2025年度
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 - vocab:
-    content: 都市計画・まちづくり
+  - content: 都市計画・まちづくり
 depiction:
 - scope: cover
   image:

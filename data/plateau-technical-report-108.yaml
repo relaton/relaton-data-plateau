@@ -40,17 +40,17 @@ abstract:
   content: 地下街データを活用したナビゲーションシステム v2.0の技術資料 (2024年度)
 keyword:
 - vocab:
-    content: 2024年度
+  - content: 2024年度
 - vocab:
-    content: AR
+  - content: AR
 - vocab:
-    content: BIMモデル
+  - content: BIMモデル
 - vocab:
-    content: PostGIS
+  - content: PostGIS
 - vocab:
-    content: Unity
+  - content: Unity
 - vocab:
-    content: VR・メタバース
+  - content: VR・メタバース
 depiction:
 - scope: cover
   image:

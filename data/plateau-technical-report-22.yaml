@@ -40,15 +40,15 @@ abstract:
   content: ウォーカブルな空間設計のためのスマート・プランニング手法開発の技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: QGIS
+  - content: QGIS
 - vocab:
-    content: VR・メタバース
+  - content: VR・メタバース
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 - vocab:
-    content: 人流データ
+  - content: 人流データ
 depiction:
 - scope: cover
   image:

@@ -40,9 +40,9 @@ abstract:
   content: 建物振動に関する大規模シミュレーションv3.0の技術資料(2025年度)
 keyword:
 - vocab:
-    content: 2025年度
+  - content: 2025年度
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 depiction:
 - scope: cover
   image:

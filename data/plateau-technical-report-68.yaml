@@ -40,15 +40,15 @@ abstract:
   content: 3D都市モデル・不動産IDマッチングシステムの技術資料 (2023年度)
 keyword:
 - vocab:
-    content: 2023年度
+  - content: 2023年度
 - vocab:
-    content: Linked Open Data
+  - content: Linked Open Data
 - vocab:
-    content: PostGIS
+  - content: PostGIS
 - vocab:
-    content: React
+  - content: React
 - vocab:
-    content: 不動産ID
+  - content: 不動産ID
 depiction:
 - scope: cover
   image:

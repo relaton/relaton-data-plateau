@@ -40,25 +40,25 @@ abstract:
   content: 大規模誘導・避難シミュレーションの技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: AI
+  - content: AI
 - vocab:
-    content: CesiumForUnreal
+  - content: CesiumForUnreal
 - vocab:
-    content: IoT
+  - content: IoT
 - vocab:
-    content: Unity
+  - content: Unity
 - vocab:
-    content: VR・メタバース
+  - content: VR・メタバース
 - vocab:
-    content: ゲーミフィケーション
+  - content: ゲーミフィケーション
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 - vocab:
-    content: ダッシュボード
+  - content: ダッシュボード
 - vocab:
-    content: 人流データ
+  - content: 人流データ
 depiction:
 - scope: cover
   image:

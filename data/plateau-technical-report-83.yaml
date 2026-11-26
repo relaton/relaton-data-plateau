@@ -40,11 +40,11 @@ abstract:
   content: 下水熱利用促進のためのマッチングシステムの技術資料 (2023年度)
 keyword:
 - vocab:
-    content: 2023年度
+  - content: 2023年度
 - vocab:
-    content: ArcGIS
+  - content: ArcGIS
 - vocab:
-    content: シミュレーション
+  - content: シミュレーション
 depiction:
 - scope: cover
   image:

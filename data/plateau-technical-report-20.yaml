@@ -40,9 +40,9 @@ abstract:
   content: ゲーミフィケーションによる参加型まちづくり手法開発の技術資料（2022年度）
 keyword:
 - vocab:
-    content: 2022年度
+  - content: 2022年度
 - vocab:
-    content: ゲーミフィケーション
+  - content: ゲーミフィケーション
 depiction:
 - scope: cover
   image:
